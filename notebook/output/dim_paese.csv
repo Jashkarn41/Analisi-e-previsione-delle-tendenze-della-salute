@@ -1,0 +1,39 @@
+codice_paese,paese,ue
+EA20,Area euro - 20 paesi (2023-2025),False
+EA21,Area euro - 21 paesi (dal 2026),False
+EFTA,Associazione europea di libero scambio,False
+AT,Austria,True
+BE,Belgio,True
+BG,Bulgaria,True
+CZ,Cechia,True
+CY,Cipro,True
+HR,Croazia,True
+DK,Danimarca,True
+EE,Estonia,True
+FI,Finlandia,True
+FR,Francia,True
+DE,Germania,True
+EL,Grecia,True
+IE,Irlanda,True
+IS,Islanda,False
+IT,Italia,True
+LV,Lettonia,True
+LI,Liechtenstein,False
+LT,Lituania,True
+LU,Lussemburgo,True
+MT,Malta,True
+NO,Norvegia,False
+NL,Paesi Bassi,True
+PL,Polonia,True
+PT,Portogallo,True
+RO,Romania,True
+SK,Slovacchia,True
+SI,Slovenia,True
+ES,Spagna,True
+EEA30_2007,"Spazio economico europeo (UE27 - 2007-2013 e IS, LI, NO)",False
+EEA31,"Spazio economico europeo (UE28 - 2013-2020 e IS, LI, NO)",False
+SE,Svezia,True
+HU,Ungheria,True
+EU27_2007,Unione europea - 27 paesi (2007-2013),False
+EU27_2020,Unione europea - 27 paesi (dal 2020),False
+EU28,Unione europea - 28 paesi (2013-2020),False

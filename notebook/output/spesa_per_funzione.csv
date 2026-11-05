@@ -1,0 +1,148 @@
+codice_paese,paese,anno,codice_funzione,funzione_sanitaria,spesa_milioni_euro
+AT,Austria,2022,HC1,Cure curative,25383.14
+BE,Belgio,2022,HC1,Cure curative,26625.36
+BG,Bulgaria,2022,HC1,Cure curative,3293.23
+CY,Cipro,2022,HC1,Cure curative,1419.25
+CZ,Cechia,2022,HC1,Cure curative,12913.7
+DE,Germania,2022,HC1,Cure curative,210237.0
+DK,Danimarca,2022,HC1,Cure curative,21269.87
+EE,Estonia,2022,HC1,Cure curative,1327.17
+EL,Grecia,2022,HC1,Cure curative,10175.32
+ES,Spagna,2022,HC1,Cure curative,75095.53
+FI,Finlandia,2022,HC1,Cure curative,14373.21
+FR,Francia,2022,HC1,Cure curative,143641.18
+HR,Croazia,2022,HC1,Cure curative,2594.33
+HU,Ungheria,2022,HC1,Cure curative,6229.39
+IS,Islanda,2022,HC1,Cure curative,1287.53
+LI,Liechtenstein,2022,HC1,Cure curative,205.81
+LT,Lituania,2022,HC1,Cure curative,2521.62
+LU,Lussemburgo,2022,HC1,Cure curative,2007.03
+LV,Lettonia,2022,HC1,Cure curative,1554.63
+MT,Malta,2022,HC1,Cure curative,813.98
+NL,Paesi Bassi,2022,HC1,Cure curative,44929.0
+NO,Norvegia,2022,HC1,Cure curative,21079.43
+PL,Polonia,2022,HC1,Cure curative,25148.01
+PT,Portogallo,2022,HC1,Cure curative,15259.24
+RO,Romania,2022,HC1,Cure curative,8873.6
+SI,Slovenia,2022,HC1,Cure curative,2991.3
+SK,Slovacchia,2022,HC1,Cure curative,4343.18
+AT,Austria,2022,HC3,Assistenza a lungo termine (long-term care),6704.38
+BE,Belgio,2022,HC3,Assistenza a lungo termine (long-term care),13540.36
+BG,Bulgaria,2022,HC3,Assistenza a lungo termine (long-term care),283.47
+CY,Cipro,2022,HC3,Assistenza a lungo termine (long-term care),115.92
+CZ,Cechia,2022,HC3,Assistenza a lungo termine (long-term care),3090.31
+DE,Germania,2022,HC3,Assistenza a lungo termine (long-term care),96343.0
+DK,Danimarca,2022,HC3,Assistenza a lungo termine (long-term care),7473.02
+EE,Estonia,2022,HC3,Assistenza a lungo termine (long-term care),251.31
+EL,Grecia,2022,HC3,Assistenza a lungo termine (long-term care),296.03
+ES,Spagna,2022,HC3,Assistenza a lungo termine (long-term care),13838.73
+FI,Finlandia,2022,HC3,Assistenza a lungo termine (long-term care),4574.14
+FR,Francia,2022,HC3,Assistenza a lungo termine (long-term care),47048.54
+HR,Croazia,2022,HC3,Assistenza a lungo termine (long-term care),136.26
+HU,Ungheria,2022,HC3,Assistenza a lungo termine (long-term care),435.25
+IE,Irlanda,2022,HC3,Assistenza a lungo termine (long-term care),6747.07
+IS,Islanda,2022,HC3,Assistenza a lungo termine (long-term care),498.55
+IT,Italia,2022,HC3,Assistenza a lungo termine (long-term care),17934.0
+LI,Liechtenstein,2022,HC3,Assistenza a lungo termine (long-term care),58.48
+LT,Lituania,2022,HC3,Assistenza a lungo termine (long-term care),352.25
+LU,Lussemburgo,2022,HC3,Assistenza a lungo termine (long-term care),817.55
+LV,Lettonia,2022,HC3,Assistenza a lungo termine (long-term care),124.01
+MT,Malta,2022,HC3,Assistenza a lungo termine (long-term care),273.33
+NL,Paesi Bassi,2022,HC3,Assistenza a lungo termine (long-term care),28445.0
+NO,Norvegia,2022,HC3,Assistenza a lungo termine (long-term care),13000.71
+PL,Polonia,2022,HC3,Assistenza a lungo termine (long-term care),3407.6
+PT,Portogallo,2022,HC3,Assistenza a lungo termine (long-term care),1261.52
+RO,Romania,2022,HC3,Assistenza a lungo termine (long-term care),935.45
+SE,Svezia,2022,HC3,Assistenza a lungo termine (long-term care),16516.8
+SI,Slovenia,2022,HC3,Assistenza a lungo termine (long-term care),638.95
+SK,Slovacchia,2022,HC3,Assistenza a lungo termine (long-term care),34.26
+AT,Austria,2022,HC51,Farmaci e altri beni medici non durevoli,5754.06
+BE,Belgio,2022,HC51,Farmaci e altri beni medici non durevoli,6159.48
+BG,Bulgaria,2022,HC51,Farmaci e altri beni medici non durevoli,2070.2
+CY,Cipro,2022,HC51,Farmaci e altri beni medici non durevoli,421.9
+CZ,Cechia,2022,HC51,Farmaci e altri beni medici non durevoli,3383.84
+DE,Germania,2022,HC51,Farmaci e altri beni medici non durevoli,66310.0
+DK,Danimarca,2022,HC51,Farmaci e altri beni medici non durevoli,2312.58
+EE,Estonia,2022,HC51,Farmaci e altri beni medici non durevoli,375.38
+EL,Grecia,2022,HC51,Farmaci e altri beni medici non durevoli,4720.16
+ES,Spagna,2022,HC51,Farmaci e altri beni medici non durevoli,20244.07
+FI,Finlandia,2022,HC51,Farmaci e altri beni medici non durevoli,2995.0
+FR,Francia,2022,HC51,Farmaci e altri beni medici non durevoli,36093.08
+HR,Croazia,2022,HC51,Farmaci e altri beni medici non durevoli,957.24
+HU,Ungheria,2022,HC51,Farmaci e altri beni medici non durevoli,2509.54
+IE,Irlanda,2022,HC51,Farmaci e altri beni medici non durevoli,3379.78
+IS,Islanda,2022,HC51,Farmaci e altri beni medici non durevoli,270.35
+IT,Italia,2022,HC51,Farmaci e altri beni medici non durevoli,30604.0
+LI,Liechtenstein,2022,HC51,Farmaci e altri beni medici non durevoli,38.28
+LT,Lituania,2022,HC51,Farmaci e altri beni medici non durevoli,1019.18
+LU,Lussemburgo,2022,HC51,Farmaci e altri beni medici non durevoli,478.22
+LV,Lettonia,2022,HC51,Farmaci e altri beni medici non durevoli,567.52
+MT,Malta,2022,HC51,Farmaci e altri beni medici non durevoli,304.79
+NL,Paesi Bassi,2022,HC51,Farmaci e altri beni medici non durevoli,6654.0
+NO,Norvegia,2022,HC51,Farmaci e altri beni medici non durevoli,3202.44
+PL,Polonia,2022,HC51,Farmaci e altri beni medici non durevoli,7272.18
+PT,Portogallo,2022,HC51,Farmaci e altri beni medici non durevoli,3660.82
+RO,Romania,2022,HC51,Farmaci e altri beni medici non durevoli,3984.04
+SE,Svezia,2022,HC51,Farmaci e altri beni medici non durevoli,5709.62
+SI,Slovenia,2022,HC51,Farmaci e altri beni medici non durevoli,935.21
+SK,Slovacchia,2022,HC51,Farmaci e altri beni medici non durevoli,1802.03
+AT,Austria,2022,HC6,Assistenza preventiva e prevenzione,3779.02
+BE,Belgio,2022,HC6,Assistenza preventiva e prevenzione,1650.87
+BG,Bulgaria,2022,HC6,Assistenza preventiva e prevenzione,203.16
+CY,Cipro,2022,HC6,Assistenza preventiva e prevenzione,68.19
+CZ,Cechia,2022,HC6,Assistenza preventiva e prevenzione,1265.44
+DE,Germania,2022,HC6,Assistenza preventiva e prevenzione,40132.0
+DK,Danimarca,2022,HC6,Assistenza preventiva e prevenzione,1796.66
+EE,Estonia,2022,HC6,Assistenza preventiva e prevenzione,143.1
+EL,Grecia,2022,HC6,Assistenza preventiva e prevenzione,791.49
+ES,Spagna,2022,HC6,Assistenza preventiva e prevenzione,5819.76
+FI,Finlandia,2022,HC6,Assistenza preventiva e prevenzione,1653.57
+FR,Francia,2022,HC6,Assistenza preventiva e prevenzione,13345.67
+HR,Croazia,2022,HC6,Assistenza preventiva e prevenzione,260.88
+HU,Ungheria,2022,HC6,Assistenza preventiva e prevenzione,329.08
+IE,Irlanda,2022,HC6,Assistenza preventiva e prevenzione,1493.6
+IS,Islanda,2022,HC6,Assistenza preventiva e prevenzione,71.89
+IT,Italia,2022,HC6,Assistenza preventiva e prevenzione,10245.0
+LI,Liechtenstein,2022,HC6,Assistenza preventiva e prevenzione,9.67
+LT,Lituania,2022,HC6,Assistenza preventiva e prevenzione,228.87
+LU,Lussemburgo,2022,HC6,Assistenza preventiva e prevenzione,196.09
+LV,Lettonia,2022,HC6,Assistenza preventiva e prevenzione,82.03
+MT,Malta,2022,HC6,Assistenza preventiva e prevenzione,19.62
+NL,Paesi Bassi,2022,HC6,Assistenza preventiva e prevenzione,6822.0
+NO,Norvegia,2022,HC6,Assistenza preventiva e prevenzione,1376.97
+PL,Polonia,2022,HC6,Assistenza preventiva e prevenzione,803.69
+PT,Portogallo,2022,HC6,Assistenza preventiva e prevenzione,858.08
+RO,Romania,2022,HC6,Assistenza preventiva e prevenzione,463.63
+SE,Svezia,2022,HC6,Assistenza preventiva e prevenzione,2022.18
+SI,Slovenia,2022,HC6,Assistenza preventiva e prevenzione,258.89
+SK,Slovacchia,2022,HC6,Assistenza preventiva e prevenzione,173.33
+AT,Austria,2022,HC7,Governance e amministrazione del sistema sanitario,1850.11
+BE,Belgio,2022,HC7,Governance e amministrazione del sistema sanitario,2033.37
+BG,Bulgaria,2022,HC7,Governance e amministrazione del sistema sanitario,112.5
+CY,Cipro,2022,HC7,Governance e amministrazione del sistema sanitario,38.56
+CZ,Cechia,2022,HC7,Governance e amministrazione del sistema sanitario,482.91
+DE,Germania,2022,HC7,Governance e amministrazione del sistema sanitario,21025.0
+DK,Danimarca,2022,HC7,Governance e amministrazione del sistema sanitario,1479.54
+EE,Estonia,2022,HC7,Governance e amministrazione del sistema sanitario,37.17
+EL,Grecia,2022,HC7,Governance e amministrazione del sistema sanitario,262.41
+ES,Spagna,2022,HC7,Governance e amministrazione del sistema sanitario,3596.33
+FI,Finlandia,2022,HC7,Governance e amministrazione del sistema sanitario,204.53
+FR,Francia,2022,HC7,Governance e amministrazione del sistema sanitario,15744.44
+HR,Croazia,2022,HC7,Governance e amministrazione del sistema sanitario,129.82
+HU,Ungheria,2022,HC7,Governance e amministrazione del sistema sanitario,413.14
+IE,Irlanda,2022,HC7,Governance e amministrazione del sistema sanitario,556.83
+IS,Islanda,2022,HC7,Governance e amministrazione del sistema sanitario,40.08
+IT,Italia,2022,HC7,Governance e amministrazione del sistema sanitario,2879.0
+LI,Liechtenstein,2022,HC7,Governance e amministrazione del sistema sanitario,25.57
+LT,Lituania,2022,HC7,Governance e amministrazione del sistema sanitario,55.84
+LU,Lussemburgo,2022,HC7,Governance e amministrazione del sistema sanitario,154.0
+LV,Lettonia,2022,HC7,Governance e amministrazione del sistema sanitario,55.64
+MT,Malta,2022,HC7,Governance e amministrazione del sistema sanitario,67.04
+NL,Paesi Bassi,2022,HC7,Governance e amministrazione del sistema sanitario,3170.0
+NO,Norvegia,2022,HC7,Governance e amministrazione del sistema sanitario,794.84
+PL,Polonia,2022,HC7,Governance e amministrazione del sistema sanitario,1779.89
+PT,Portogallo,2022,HC7,Governance e amministrazione del sistema sanitario,553.73
+RO,Romania,2022,HC7,Governance e amministrazione del sistema sanitario,517.97
+SE,Svezia,2022,HC7,Governance e amministrazione del sistema sanitario,790.81
+SI,Slovenia,2022,HC7,Governance e amministrazione del sistema sanitario,147.24
+SK,Slovacchia,2022,HC7,Governance e amministrazione del sistema sanitario,602.85

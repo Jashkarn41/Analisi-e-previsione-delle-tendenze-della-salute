@@ -1,0 +1,2611 @@
+codice_paese,paese,anno,indicatore_demografico,valore
+AT,Austria,2026,Deaths - total,91664.0
+AT,Austria,2027,Deaths - total,92556.0
+AT,Austria,2028,Deaths - total,93464.0
+AT,Austria,2029,Deaths - total,94363.0
+AT,Austria,2030,Deaths - total,95232.0
+AT,Austria,2035,Deaths - total,98946.0
+AT,Austria,2040,Deaths - total,102660.0
+AT,Austria,2045,Deaths - total,108323.0
+AT,Austria,2050,Deaths - total,115100.0
+BE,Belgio,2026,Deaths - total,111022.0
+BE,Belgio,2027,Deaths - total,111947.0
+BE,Belgio,2028,Deaths - total,112856.0
+BE,Belgio,2029,Deaths - total,113772.0
+BE,Belgio,2030,Deaths - total,114716.0
+BE,Belgio,2035,Deaths - total,120316.0
+BE,Belgio,2040,Deaths - total,127143.0
+BE,Belgio,2045,Deaths - total,133386.0
+BE,Belgio,2050,Deaths - total,137940.0
+BG,Bulgaria,2026,Deaths - total,99515.0
+BG,Bulgaria,2027,Deaths - total,99143.0
+BG,Bulgaria,2028,Deaths - total,98806.0
+BG,Bulgaria,2029,Deaths - total,98503.0
+BG,Bulgaria,2030,Deaths - total,98234.0
+BG,Bulgaria,2035,Deaths - total,97074.0
+BG,Bulgaria,2040,Deaths - total,95183.0
+BG,Bulgaria,2045,Deaths - total,92015.0
+BG,Bulgaria,2050,Deaths - total,88471.0
+CY,Cipro,2026,Deaths - total,7554.0
+CY,Cipro,2027,Deaths - total,7730.0
+CY,Cipro,2028,Deaths - total,7913.0
+CY,Cipro,2029,Deaths - total,8101.0
+CY,Cipro,2030,Deaths - total,8295.0
+CY,Cipro,2035,Deaths - total,9286.0
+CY,Cipro,2040,Deaths - total,10218.0
+CY,Cipro,2045,Deaths - total,10992.0
+CY,Cipro,2050,Deaths - total,11633.0
+CZ,Cechia,2026,Deaths - total,115354.0
+CZ,Cechia,2027,Deaths - total,116772.0
+CZ,Cechia,2028,Deaths - total,118206.0
+CZ,Cechia,2029,Deaths - total,119646.0
+CZ,Cechia,2030,Deaths - total,121085.0
+CZ,Cechia,2035,Deaths - total,127661.0
+CZ,Cechia,2040,Deaths - total,131592.0
+CZ,Cechia,2045,Deaths - total,131696.0
+CZ,Cechia,2050,Deaths - total,130811.0
+DE,Germania,2026,Deaths - total,1011893.0
+DE,Germania,2027,Deaths - total,1013976.0
+DE,Germania,2028,Deaths - total,1014956.0
+DE,Germania,2029,Deaths - total,1014730.0
+DE,Germania,2030,Deaths - total,1013349.0
+DE,Germania,2035,Deaths - total,999625.0
+DE,Germania,2040,Deaths - total,1005590.0
+DE,Germania,2045,Deaths - total,1041292.0
+DE,Germania,2050,Deaths - total,1077322.0
+DK,Danimarca,2026,Deaths - total,59556.0
+DK,Danimarca,2027,Deaths - total,60429.0
+DK,Danimarca,2028,Deaths - total,61310.0
+DK,Danimarca,2029,Deaths - total,62188.0
+DK,Danimarca,2030,Deaths - total,63052.0
+DK,Danimarca,2035,Deaths - total,66672.0
+DK,Danimarca,2040,Deaths - total,68503.0
+DK,Danimarca,2045,Deaths - total,69237.0
+DK,Danimarca,2050,Deaths - total,70402.0
+EE,Estonia,2026,Deaths - total,15991.0
+EE,Estonia,2027,Deaths - total,16044.0
+EE,Estonia,2028,Deaths - total,16084.0
+EE,Estonia,2029,Deaths - total,16114.0
+EE,Estonia,2030,Deaths - total,16140.0
+EE,Estonia,2035,Deaths - total,16297.0
+EE,Estonia,2040,Deaths - total,16628.0
+EE,Estonia,2045,Deaths - total,17013.0
+EE,Estonia,2050,Deaths - total,17215.0
+EL,Grecia,2026,Deaths - total,126328.0
+EL,Grecia,2027,Deaths - total,125782.0
+EL,Grecia,2028,Deaths - total,125325.0
+EL,Grecia,2029,Deaths - total,124975.0
+EL,Grecia,2030,Deaths - total,124750.0
+EL,Grecia,2035,Deaths - total,125605.0
+EL,Grecia,2040,Deaths - total,129176.0
+EL,Grecia,2045,Deaths - total,133320.0
+EL,Grecia,2050,Deaths - total,136778.0
+ES,Spagna,2026,Deaths - total,438228.0
+ES,Spagna,2027,Deaths - total,444414.0
+ES,Spagna,2028,Deaths - total,450463.0
+ES,Spagna,2029,Deaths - total,456447.0
+ES,Spagna,2030,Deaths - total,462504.0
+ES,Spagna,2035,Deaths - total,496182.0
+ES,Spagna,2040,Deaths - total,536484.0
+ES,Spagna,2045,Deaths - total,578894.0
+ES,Spagna,2050,Deaths - total,622938.0
+FI,Finlandia,2026,Deaths - total,62022.0
+FI,Finlandia,2027,Deaths - total,62561.0
+FI,Finlandia,2028,Deaths - total,63125.0
+FI,Finlandia,2029,Deaths - total,63718.0
+FI,Finlandia,2030,Deaths - total,64339.0
+FI,Finlandia,2035,Deaths - total,67590.0
+FI,Finlandia,2040,Deaths - total,69762.0
+FI,Finlandia,2045,Deaths - total,69750.0
+FI,Finlandia,2050,Deaths - total,68412.0
+FR,Francia,2026,Deaths - total,640417.0
+FR,Francia,2027,Deaths - total,646455.0
+FR,Francia,2028,Deaths - total,652601.0
+FR,Francia,2029,Deaths - total,658937.0
+FR,Francia,2030,Deaths - total,665592.0
+FR,Francia,2035,Deaths - total,706579.0
+FR,Francia,2040,Deaths - total,755205.0
+FR,Francia,2045,Deaths - total,791364.0
+FR,Francia,2050,Deaths - total,807305.0
+HR,Croazia,2026,Deaths - total,50787.0
+HR,Croazia,2027,Deaths - total,50743.0
+HR,Croazia,2028,Deaths - total,50692.0
+HR,Croazia,2029,Deaths - total,50648.0
+HR,Croazia,2030,Deaths - total,50624.0
+HR,Croazia,2035,Deaths - total,50978.0
+HR,Croazia,2040,Deaths - total,51754.0
+HR,Croazia,2045,Deaths - total,51717.0
+HR,Croazia,2050,Deaths - total,50410.0
+HU,Ungheria,2026,Deaths - total,126046.0
+HU,Ungheria,2027,Deaths - total,125764.0
+HU,Ungheria,2028,Deaths - total,125555.0
+HU,Ungheria,2029,Deaths - total,125408.0
+HU,Ungheria,2030,Deaths - total,125312.0
+HU,Ungheria,2035,Deaths - total,125282.0
+HU,Ungheria,2040,Deaths - total,124868.0
+HU,Ungheria,2045,Deaths - total,122667.0
+HU,Ungheria,2050,Deaths - total,119540.0
+IE,Irlanda,2026,Deaths - total,37204.0
+IE,Irlanda,2027,Deaths - total,38041.0
+IE,Irlanda,2028,Deaths - total,38915.0
+IE,Irlanda,2029,Deaths - total,39823.0
+IE,Irlanda,2030,Deaths - total,40761.0
+IE,Irlanda,2035,Deaths - total,45724.0
+IE,Irlanda,2040,Deaths - total,50777.0
+IE,Irlanda,2045,Deaths - total,55511.0
+IE,Irlanda,2050,Deaths - total,60070.0
+IS,Islanda,2026,Deaths - total,2698.0
+IS,Islanda,2027,Deaths - total,2744.0
+IS,Islanda,2028,Deaths - total,2794.0
+IS,Islanda,2029,Deaths - total,2847.0
+IS,Islanda,2030,Deaths - total,2904.0
+IS,Islanda,2035,Deaths - total,3244.0
+IS,Islanda,2040,Deaths - total,3621.0
+IS,Islanda,2045,Deaths - total,3967.0
+IS,Islanda,2050,Deaths - total,4266.0
+IT,Italia,2026,Deaths - total,676141.0
+IT,Italia,2027,Deaths - total,680538.0
+IT,Italia,2028,Deaths - total,684732.0
+IT,Italia,2029,Deaths - total,688775.0
+IT,Italia,2030,Deaths - total,692724.0
+IT,Italia,2035,Deaths - total,712786.0
+IT,Italia,2040,Deaths - total,736173.0
+IT,Italia,2045,Deaths - total,763973.0
+IT,Italia,2050,Deaths - total,795663.0
+LT,Lituania,2026,Deaths - total,36741.0
+LT,Lituania,2027,Deaths - total,36822.0
+LT,Lituania,2028,Deaths - total,36878.0
+LT,Lituania,2029,Deaths - total,36914.0
+LT,Lituania,2030,Deaths - total,36943.0
+LT,Lituania,2035,Deaths - total,37164.0
+LT,Lituania,2040,Deaths - total,37825.0
+LT,Lituania,2045,Deaths - total,38924.0
+LT,Lituania,2050,Deaths - total,39874.0
+LU,Lussemburgo,2026,Deaths - total,4539.0
+LU,Lussemburgo,2027,Deaths - total,4626.0
+LU,Lussemburgo,2028,Deaths - total,4716.0
+LU,Lussemburgo,2029,Deaths - total,4807.0
+LU,Lussemburgo,2030,Deaths - total,4900.0
+LU,Lussemburgo,2035,Deaths - total,5419.0
+LU,Lussemburgo,2040,Deaths - total,6042.0
+LU,Lussemburgo,2045,Deaths - total,6735.0
+LU,Lussemburgo,2050,Deaths - total,7436.0
+LV,Lettonia,2026,Deaths - total,27001.0
+LV,Lettonia,2027,Deaths - total,26760.0
+LV,Lettonia,2028,Deaths - total,26515.0
+LV,Lettonia,2029,Deaths - total,26266.0
+LV,Lettonia,2030,Deaths - total,26014.0
+LV,Lettonia,2035,Deaths - total,24861.0
+LV,Lettonia,2040,Deaths - total,24123.0
+LV,Lettonia,2045,Deaths - total,23666.0
+LV,Lettonia,2050,Deaths - total,23106.0
+MT,Malta,2026,Deaths - total,4152.0
+MT,Malta,2027,Deaths - total,4277.0
+MT,Malta,2028,Deaths - total,4403.0
+MT,Malta,2029,Deaths - total,4529.0
+MT,Malta,2030,Deaths - total,4655.0
+MT,Malta,2035,Deaths - total,5268.0
+MT,Malta,2040,Deaths - total,5784.0
+MT,Malta,2045,Deaths - total,6113.0
+MT,Malta,2050,Deaths - total,6340.0
+NL,Paesi Bassi,2026,Deaths - total,173254.0
+NL,Paesi Bassi,2027,Deaths - total,175665.0
+NL,Paesi Bassi,2028,Deaths - total,178152.0
+NL,Paesi Bassi,2029,Deaths - total,180706.0
+NL,Paesi Bassi,2030,Deaths - total,183325.0
+NL,Paesi Bassi,2035,Deaths - total,196534.0
+NL,Paesi Bassi,2040,Deaths - total,207201.0
+NL,Paesi Bassi,2045,Deaths - total,214051.0
+NL,Paesi Bassi,2050,Deaths - total,219251.0
+NO,Norvegia,2026,Deaths - total,45541.0
+NO,Norvegia,2027,Deaths - total,46272.0
+NO,Norvegia,2028,Deaths - total,47065.0
+NO,Norvegia,2029,Deaths - total,47911.0
+NO,Norvegia,2030,Deaths - total,48803.0
+NO,Norvegia,2035,Deaths - total,53522.0
+NO,Norvegia,2040,Deaths - total,57608.0
+NO,Norvegia,2045,Deaths - total,60507.0
+NO,Norvegia,2050,Deaths - total,63076.0
+PL,Polonia,2026,Deaths - total,410731.0
+PL,Polonia,2027,Deaths - total,412633.0
+PL,Polonia,2028,Deaths - total,414647.0
+PL,Polonia,2029,Deaths - total,416835.0
+PL,Polonia,2030,Deaths - total,419267.0
+PL,Polonia,2035,Deaths - total,435919.0
+PL,Polonia,2040,Deaths - total,456529.0
+PL,Polonia,2045,Deaths - total,468108.0
+PL,Polonia,2050,Deaths - total,463488.0
+PT,Portogallo,2026,Deaths - total,121321.0
+PT,Portogallo,2027,Deaths - total,123110.0
+PT,Portogallo,2028,Deaths - total,124795.0
+PT,Portogallo,2029,Deaths - total,126432.0
+PT,Portogallo,2030,Deaths - total,128072.0
+PT,Portogallo,2035,Deaths - total,136434.0
+PT,Portogallo,2040,Deaths - total,145015.0
+PT,Portogallo,2045,Deaths - total,152569.0
+PT,Portogallo,2050,Deaths - total,158260.0
+RO,Romania,2026,Deaths - total,239536.0
+RO,Romania,2027,Deaths - total,239168.0
+RO,Romania,2028,Deaths - total,238874.0
+RO,Romania,2029,Deaths - total,238670.0
+RO,Romania,2030,Deaths - total,238575.0
+RO,Romania,2035,Deaths - total,239810.0
+RO,Romania,2040,Deaths - total,241742.0
+RO,Romania,2045,Deaths - total,240687.0
+RO,Romania,2050,Deaths - total,236459.0
+SE,Svezia,2026,Deaths - total,96909.0
+SE,Svezia,2027,Deaths - total,98391.0
+SE,Svezia,2028,Deaths - total,99916.0
+SE,Svezia,2029,Deaths - total,101466.0
+SE,Svezia,2030,Deaths - total,103016.0
+SE,Svezia,2035,Deaths - total,109938.0
+SE,Svezia,2040,Deaths - total,113811.0
+SE,Svezia,2045,Deaths - total,115178.0
+SE,Svezia,2050,Deaths - total,117278.0
+SI,Slovenia,2026,Deaths - total,21787.0
+SI,Slovenia,2027,Deaths - total,22060.0
+SI,Slovenia,2028,Deaths - total,22325.0
+SI,Slovenia,2029,Deaths - total,22585.0
+SI,Slovenia,2030,Deaths - total,22841.0
+SI,Slovenia,2035,Deaths - total,24176.0
+SI,Slovenia,2040,Deaths - total,25660.0
+SI,Slovenia,2045,Deaths - total,26912.0
+SI,Slovenia,2050,Deaths - total,27533.0
+SK,Slovacchia,2026,Deaths - total,56078.0
+SK,Slovacchia,2027,Deaths - total,56662.0
+SK,Slovacchia,2028,Deaths - total,57285.0
+SK,Slovacchia,2029,Deaths - total,57943.0
+SK,Slovacchia,2030,Deaths - total,58627.0
+SK,Slovacchia,2035,Deaths - total,62272.0
+SK,Slovacchia,2040,Deaths - total,65726.0
+SK,Slovacchia,2045,Deaths - total,67814.0
+SK,Slovacchia,2050,Deaths - total,68358.0
+AT,Austria,2026,Deaths - total,91658.0
+AT,Austria,2027,Deaths - total,92543.0
+AT,Austria,2028,Deaths - total,93442.0
+AT,Austria,2029,Deaths - total,94333.0
+AT,Austria,2030,Deaths - total,95198.0
+AT,Austria,2035,Deaths - total,98872.0
+AT,Austria,2040,Deaths - total,102409.0
+AT,Austria,2045,Deaths - total,107828.0
+AT,Austria,2050,Deaths - total,114265.0
+BE,Belgio,2026,Deaths - total,111050.0
+BE,Belgio,2027,Deaths - total,111996.0
+BE,Belgio,2028,Deaths - total,112928.0
+BE,Belgio,2029,Deaths - total,113872.0
+BE,Belgio,2030,Deaths - total,114847.0
+BE,Belgio,2035,Deaths - total,120636.0
+BE,Belgio,2040,Deaths - total,127660.0
+BE,Belgio,2045,Deaths - total,134157.0
+BE,Belgio,2050,Deaths - total,138959.0
+BG,Bulgaria,2026,Deaths - total,99280.0
+BG,Bulgaria,2027,Deaths - total,98758.0
+BG,Bulgaria,2028,Deaths - total,98280.0
+BG,Bulgaria,2029,Deaths - total,97841.0
+BG,Bulgaria,2030,Deaths - total,97436.0
+BG,Bulgaria,2035,Deaths - total,95567.0
+BG,Bulgaria,2040,Deaths - total,92855.0
+BG,Bulgaria,2045,Deaths - total,88784.0
+BG,Bulgaria,2050,Deaths - total,84290.0
+CY,Cipro,2026,Deaths - total,7521.0
+CY,Cipro,2027,Deaths - total,7676.0
+CY,Cipro,2028,Deaths - total,7838.0
+CY,Cipro,2029,Deaths - total,8006.0
+CY,Cipro,2030,Deaths - total,8180.0
+CY,Cipro,2035,Deaths - total,9057.0
+CY,Cipro,2040,Deaths - total,9849.0
+CY,Cipro,2045,Deaths - total,10489.0
+CY,Cipro,2050,Deaths - total,11018.0
+CZ,Cechia,2026,Deaths - total,115360.0
+CZ,Cechia,2027,Deaths - total,116794.0
+CZ,Cechia,2028,Deaths - total,118251.0
+CZ,Cechia,2029,Deaths - total,119721.0
+CZ,Cechia,2030,Deaths - total,121195.0
+CZ,Cechia,2035,Deaths - total,127932.0
+CZ,Cechia,2040,Deaths - total,131641.0
+CZ,Cechia,2045,Deaths - total,131444.0
+CZ,Cechia,2050,Deaths - total,130135.0
+DE,Germania,2026,Deaths - total,1012490.0
+DE,Germania,2027,Deaths - total,1014908.0
+DE,Germania,2028,Deaths - total,1016160.0
+DE,Germania,2029,Deaths - total,1016190.0
+DE,Germania,2030,Deaths - total,1015084.0
+DE,Germania,2035,Deaths - total,1002462.0
+DE,Germania,2040,Deaths - total,1007905.0
+DE,Germania,2045,Deaths - total,1042634.0
+DE,Germania,2050,Deaths - total,1076820.0
+DK,Danimarca,2026,Deaths - total,59508.0
+DK,Danimarca,2027,Deaths - total,60350.0
+DK,Danimarca,2028,Deaths - total,61201.0
+DK,Danimarca,2029,Deaths - total,62047.0
+DK,Danimarca,2030,Deaths - total,62879.0
+DK,Danimarca,2035,Deaths - total,66315.0
+DK,Danimarca,2040,Deaths - total,67880.0
+DK,Danimarca,2045,Deaths - total,68293.0
+DK,Danimarca,2050,Deaths - total,69086.0
+EE,Estonia,2026,Deaths - total,15957.0
+EE,Estonia,2027,Deaths - total,15990.0
+EE,Estonia,2028,Deaths - total,16013.0
+EE,Estonia,2029,Deaths - total,16030.0
+EE,Estonia,2030,Deaths - total,16042.0
+EE,Estonia,2035,Deaths - total,16119.0
+EE,Estonia,2040,Deaths - total,16310.0
+EE,Estonia,2045,Deaths - total,16533.0
+EE,Estonia,2050,Deaths - total,16541.0
+EL,Grecia,2026,Deaths - total,126120.0
+EL,Grecia,2027,Deaths - total,125446.0
+EL,Grecia,2028,Deaths - total,124869.0
+EL,Grecia,2029,Deaths - total,124399.0
+EL,Grecia,2030,Deaths - total,124051.0
+EL,Grecia,2035,Deaths - total,124236.0
+EL,Grecia,2040,Deaths - total,127058.0
+EL,Grecia,2045,Deaths - total,130473.0
+EL,Grecia,2050,Deaths - total,133345.0
+ES,Spagna,2026,Deaths - total,437259.0
+ES,Spagna,2027,Deaths - total,442860.0
+ES,Spagna,2028,Deaths - total,448379.0
+ES,Spagna,2029,Deaths - total,453879.0
+ES,Spagna,2030,Deaths - total,459469.0
+ES,Spagna,2035,Deaths - total,490613.0
+ES,Spagna,2040,Deaths - total,527725.0
+ES,Spagna,2045,Deaths - total,566174.0
+ES,Spagna,2050,Deaths - total,605419.0
+FI,Finlandia,2026,Deaths - total,61965.0
+FI,Finlandia,2027,Deaths - total,62469.0
+FI,Finlandia,2028,Deaths - total,63001.0
+FI,Finlandia,2029,Deaths - total,63563.0
+FI,Finlandia,2030,Deaths - total,64151.0
+FI,Finlandia,2035,Deaths - total,67221.0
+FI,Finlandia,2040,Deaths - total,69155.0
+FI,Finlandia,2045,Deaths - total,68853.0
+FI,Finlandia,2050,Deaths - total,67153.0
+FR,Francia,2026,Deaths - total,641232.0
+FR,Francia,2027,Deaths - total,647745.0
+FR,Francia,2028,Deaths - total,654285.0
+FR,Francia,2029,Deaths - total,660983.0
+FR,Francia,2030,Deaths - total,668000.0
+FR,Francia,2035,Deaths - total,710297.0
+FR,Francia,2040,Deaths - total,759267.0
+FR,Francia,2045,Deaths - total,794356.0
+FR,Francia,2050,Deaths - total,806905.0
+HR,Croazia,2026,Deaths - total,50709.0
+HR,Croazia,2027,Deaths - total,50632.0
+HR,Croazia,2028,Deaths - total,50564.0
+HR,Croazia,2029,Deaths - total,50512.0
+HR,Croazia,2030,Deaths - total,50481.0
+HR,Croazia,2035,Deaths - total,50802.0
+HR,Croazia,2040,Deaths - total,51523.0
+HR,Croazia,2045,Deaths - total,51393.0
+HR,Croazia,2050,Deaths - total,49923.0
+HU,Ungheria,2026,Deaths - total,125999.0
+HU,Ungheria,2027,Deaths - total,125679.0
+HU,Ungheria,2028,Deaths - total,125427.0
+HU,Ungheria,2029,Deaths - total,125232.0
+HU,Ungheria,2030,Deaths - total,125088.0
+HU,Ungheria,2035,Deaths - total,124766.0
+HU,Ungheria,2040,Deaths - total,123939.0
+HU,Ungheria,2045,Deaths - total,121151.0
+HU,Ungheria,2050,Deaths - total,117273.0
+IE,Irlanda,2026,Deaths - total,37017.0
+IE,Irlanda,2027,Deaths - total,37739.0
+IE,Irlanda,2028,Deaths - total,38505.0
+IE,Irlanda,2029,Deaths - total,39311.0
+IE,Irlanda,2030,Deaths - total,40153.0
+IE,Irlanda,2035,Deaths - total,44692.0
+IE,Irlanda,2040,Deaths - total,49265.0
+IE,Irlanda,2045,Deaths - total,53478.0
+IE,Irlanda,2050,Deaths - total,57442.0
+IS,Islanda,2026,Deaths - total,2689.0
+IS,Islanda,2027,Deaths - total,2729.0
+IS,Islanda,2028,Deaths - total,2773.0
+IS,Islanda,2029,Deaths - total,2821.0
+IS,Islanda,2030,Deaths - total,2873.0
+IS,Islanda,2035,Deaths - total,3186.0
+IS,Islanda,2040,Deaths - total,3528.0
+IS,Islanda,2045,Deaths - total,3832.0
+IS,Islanda,2050,Deaths - total,4072.0
+IT,Italia,2026,Deaths - total,675654.0
+IT,Italia,2027,Deaths - total,679722.0
+IT,Italia,2028,Deaths - total,683586.0
+IT,Italia,2029,Deaths - total,687287.0
+IT,Italia,2030,Deaths - total,690882.0
+IT,Italia,2035,Deaths - total,708943.0
+IT,Italia,2040,Deaths - total,729777.0
+IT,Italia,2045,Deaths - total,754431.0
+IT,Italia,2050,Deaths - total,782224.0
+LT,Lituania,2026,Deaths - total,36588.0
+LT,Lituania,2027,Deaths - total,36582.0
+LT,Lituania,2028,Deaths - total,36563.0
+LT,Lituania,2029,Deaths - total,36532.0
+LT,Lituania,2030,Deaths - total,36496.0
+LT,Lituania,2035,Deaths - total,36379.0
+LT,Lituania,2040,Deaths - total,36636.0
+LT,Lituania,2045,Deaths - total,37278.0
+LT,Lituania,2050,Deaths - total,37685.0
+LU,Lussemburgo,2026,Deaths - total,4536.0
+LU,Lussemburgo,2027,Deaths - total,4621.0
+LU,Lussemburgo,2028,Deaths - total,4707.0
+LU,Lussemburgo,2029,Deaths - total,4795.0
+LU,Lussemburgo,2030,Deaths - total,4885.0
+LU,Lussemburgo,2035,Deaths - total,5397.0
+LU,Lussemburgo,2040,Deaths - total,6018.0
+LU,Lussemburgo,2045,Deaths - total,6724.0
+LU,Lussemburgo,2050,Deaths - total,7454.0
+LV,Lettonia,2026,Deaths - total,27042.0
+LV,Lettonia,2027,Deaths - total,26826.0
+LV,Lettonia,2028,Deaths - total,26603.0
+LV,Lettonia,2029,Deaths - total,26376.0
+LV,Lettonia,2030,Deaths - total,26147.0
+LV,Lettonia,2035,Deaths - total,25097.0
+LV,Lettonia,2040,Deaths - total,24398.0
+LV,Lettonia,2045,Deaths - total,23980.0
+LV,Lettonia,2050,Deaths - total,23465.0
+MT,Malta,2026,Deaths - total,4145.0
+MT,Malta,2027,Deaths - total,4263.0
+MT,Malta,2028,Deaths - total,4383.0
+MT,Malta,2029,Deaths - total,4504.0
+MT,Malta,2030,Deaths - total,4625.0
+MT,Malta,2035,Deaths - total,5221.0
+MT,Malta,2040,Deaths - total,5711.0
+MT,Malta,2045,Deaths - total,5996.0
+MT,Malta,2050,Deaths - total,6146.0
+NL,Paesi Bassi,2026,Deaths - total,173120.0
+NL,Paesi Bassi,2027,Deaths - total,175452.0
+NL,Paesi Bassi,2028,Deaths - total,177870.0
+NL,Paesi Bassi,2029,Deaths - total,180361.0
+NL,Paesi Bassi,2030,Deaths - total,182916.0
+NL,Paesi Bassi,2035,Deaths - total,195800.0
+NL,Paesi Bassi,2040,Deaths - total,206029.0
+NL,Paesi Bassi,2045,Deaths - total,212388.0
+NL,Paesi Bassi,2050,Deaths - total,216964.0
+NO,Norvegia,2026,Deaths - total,45525.0
+NO,Norvegia,2027,Deaths - total,46245.0
+NO,Norvegia,2028,Deaths - total,47026.0
+NO,Norvegia,2029,Deaths - total,47862.0
+NO,Norvegia,2030,Deaths - total,48745.0
+NO,Norvegia,2035,Deaths - total,53422.0
+NO,Norvegia,2040,Deaths - total,57395.0
+NO,Norvegia,2045,Deaths - total,60172.0
+NO,Norvegia,2050,Deaths - total,62589.0
+PL,Polonia,2026,Deaths - total,410593.0
+PL,Polonia,2027,Deaths - total,412448.0
+PL,Polonia,2028,Deaths - total,414452.0
+PL,Polonia,2029,Deaths - total,416652.0
+PL,Polonia,2030,Deaths - total,419110.0
+PL,Polonia,2035,Deaths - total,435921.0
+PL,Polonia,2040,Deaths - total,455938.0
+PL,Polonia,2045,Deaths - total,466729.0
+PL,Polonia,2050,Deaths - total,460898.0
+PT,Portogallo,2026,Deaths - total,120149.0
+PT,Portogallo,2027,Deaths - total,121229.0
+PT,Portogallo,2028,Deaths - total,122273.0
+PT,Portogallo,2029,Deaths - total,123288.0
+PT,Portogallo,2030,Deaths - total,124285.0
+PT,Portogallo,2035,Deaths - total,129180.0
+PT,Portogallo,2040,Deaths - total,133817.0
+PT,Portogallo,2045,Deaths - total,137172.0
+PT,Portogallo,2050,Deaths - total,138731.0
+RO,Romania,2026,Deaths - total,239447.0
+RO,Romania,2027,Deaths - total,239047.0
+RO,Romania,2028,Deaths - total,238747.0
+RO,Romania,2029,Deaths - total,238552.0
+RO,Romania,2030,Deaths - total,238471.0
+RO,Romania,2035,Deaths - total,239646.0
+RO,Romania,2040,Deaths - total,241335.0
+RO,Romania,2045,Deaths - total,239879.0
+RO,Romania,2050,Deaths - total,235203.0
+SE,Svezia,2026,Deaths - total,96909.0
+SE,Svezia,2027,Deaths - total,98380.0
+SE,Svezia,2028,Deaths - total,99883.0
+SE,Svezia,2029,Deaths - total,101406.0
+SE,Svezia,2030,Deaths - total,102929.0
+SE,Svezia,2035,Deaths - total,109708.0
+SE,Svezia,2040,Deaths - total,113356.0
+SE,Svezia,2045,Deaths - total,114424.0
+SE,Svezia,2050,Deaths - total,116117.0
+SI,Slovenia,2026,Deaths - total,21777.0
+SI,Slovenia,2027,Deaths - total,22042.0
+SI,Slovenia,2028,Deaths - total,22298.0
+SI,Slovenia,2029,Deaths - total,22548.0
+SI,Slovenia,2030,Deaths - total,22795.0
+SI,Slovenia,2035,Deaths - total,24076.0
+SI,Slovenia,2040,Deaths - total,25494.0
+SI,Slovenia,2045,Deaths - total,26676.0
+SI,Slovenia,2050,Deaths - total,27215.0
+SK,Slovacchia,2026,Deaths - total,56086.0
+SK,Slovacchia,2027,Deaths - total,56676.0
+SK,Slovacchia,2028,Deaths - total,57306.0
+SK,Slovacchia,2029,Deaths - total,57970.0
+SK,Slovacchia,2030,Deaths - total,58661.0
+SK,Slovacchia,2035,Deaths - total,62340.0
+SK,Slovacchia,2040,Deaths - total,65686.0
+SK,Slovacchia,2045,Deaths - total,67660.0
+SK,Slovacchia,2050,Deaths - total,68085.0
+AT,Austria,2026,Life expectancy at birth - females,84.6
+AT,Austria,2027,Life expectancy at birth - females,84.8
+AT,Austria,2028,Life expectancy at birth - females,84.9
+AT,Austria,2029,Life expectancy at birth - females,85.0
+AT,Austria,2030,Life expectancy at birth - females,85.2
+AT,Austria,2035,Life expectancy at birth - females,85.8
+AT,Austria,2040,Life expectancy at birth - females,86.5
+AT,Austria,2045,Life expectancy at birth - females,87.1
+AT,Austria,2050,Life expectancy at birth - females,87.7
+BE,Belgio,2026,Life expectancy at birth - females,84.9
+BE,Belgio,2027,Life expectancy at birth - females,85.1
+BE,Belgio,2028,Life expectancy at birth - females,85.2
+BE,Belgio,2029,Life expectancy at birth - females,85.3
+BE,Belgio,2030,Life expectancy at birth - females,85.5
+BE,Belgio,2035,Life expectancy at birth - females,86.2
+BE,Belgio,2040,Life expectancy at birth - females,86.8
+BE,Belgio,2045,Life expectancy at birth - females,87.4
+BE,Belgio,2050,Life expectancy at birth - females,88.0
+BG,Bulgaria,2026,Life expectancy at birth - females,80.3
+BG,Bulgaria,2027,Life expectancy at birth - females,80.5
+BG,Bulgaria,2028,Life expectancy at birth - females,80.7
+BG,Bulgaria,2029,Life expectancy at birth - females,80.9
+BG,Bulgaria,2030,Life expectancy at birth - females,81.1
+BG,Bulgaria,2035,Life expectancy at birth - females,82.1
+BG,Bulgaria,2040,Life expectancy at birth - females,83.0
+BG,Bulgaria,2045,Life expectancy at birth - females,83.9
+BG,Bulgaria,2050,Life expectancy at birth - females,84.8
+CY,Cipro,2026,Life expectancy at birth - females,85.3
+CY,Cipro,2027,Life expectancy at birth - females,85.4
+CY,Cipro,2028,Life expectancy at birth - females,85.5
+CY,Cipro,2029,Life expectancy at birth - females,85.6
+CY,Cipro,2030,Life expectancy at birth - females,85.7
+CY,Cipro,2035,Life expectancy at birth - females,86.3
+CY,Cipro,2040,Life expectancy at birth - females,86.9
+CY,Cipro,2045,Life expectancy at birth - females,87.4
+CY,Cipro,2050,Life expectancy at birth - females,87.9
+CZ,Cechia,2026,Life expectancy at birth - females,83.4
+CZ,Cechia,2027,Life expectancy at birth - females,83.5
+CZ,Cechia,2028,Life expectancy at birth - females,83.7
+CZ,Cechia,2029,Life expectancy at birth - females,83.8
+CZ,Cechia,2030,Life expectancy at birth - females,84.0
+CZ,Cechia,2035,Life expectancy at birth - females,84.7
+CZ,Cechia,2040,Life expectancy at birth - females,85.4
+CZ,Cechia,2045,Life expectancy at birth - females,86.1
+CZ,Cechia,2050,Life expectancy at birth - females,86.8
+DE,Germania,2026,Life expectancy at birth - females,84.0
+DE,Germania,2027,Life expectancy at birth - females,84.1
+DE,Germania,2028,Life expectancy at birth - females,84.3
+DE,Germania,2029,Life expectancy at birth - females,84.4
+DE,Germania,2030,Life expectancy at birth - females,84.5
+DE,Germania,2035,Life expectancy at birth - females,85.3
+DE,Germania,2040,Life expectancy at birth - females,85.9
+DE,Germania,2045,Life expectancy at birth - females,86.6
+DE,Germania,2050,Life expectancy at birth - females,87.2
+DK,Danimarca,2026,Life expectancy at birth - females,84.2
+DK,Danimarca,2027,Life expectancy at birth - females,84.3
+DK,Danimarca,2028,Life expectancy at birth - females,84.4
+DK,Danimarca,2029,Life expectancy at birth - females,84.6
+DK,Danimarca,2030,Life expectancy at birth - females,84.7
+DK,Danimarca,2035,Life expectancy at birth - females,85.4
+DK,Danimarca,2040,Life expectancy at birth - females,86.1
+DK,Danimarca,2045,Life expectancy at birth - females,86.8
+DK,Danimarca,2050,Life expectancy at birth - females,87.4
+EE,Estonia,2026,Life expectancy at birth - females,83.8
+EE,Estonia,2027,Life expectancy at birth - females,83.9
+EE,Estonia,2028,Life expectancy at birth - females,84.1
+EE,Estonia,2029,Life expectancy at birth - females,84.2
+EE,Estonia,2030,Life expectancy at birth - females,84.4
+EE,Estonia,2035,Life expectancy at birth - females,85.1
+EE,Estonia,2040,Life expectancy at birth - females,85.8
+EE,Estonia,2045,Life expectancy at birth - females,86.5
+EE,Estonia,2050,Life expectancy at birth - females,87.2
+EL,Grecia,2026,Life expectancy at birth - females,84.8
+EL,Grecia,2027,Life expectancy at birth - females,84.9
+EL,Grecia,2028,Life expectancy at birth - females,85.1
+EL,Grecia,2029,Life expectancy at birth - females,85.2
+EL,Grecia,2030,Life expectancy at birth - females,85.3
+EL,Grecia,2035,Life expectancy at birth - females,86.0
+EL,Grecia,2040,Life expectancy at birth - females,86.6
+EL,Grecia,2045,Life expectancy at birth - females,87.2
+EL,Grecia,2050,Life expectancy at birth - females,87.7
+ES,Spagna,2026,Life expectancy at birth - females,87.0
+ES,Spagna,2027,Life expectancy at birth - females,87.1
+ES,Spagna,2028,Life expectancy at birth - females,87.3
+ES,Spagna,2029,Life expectancy at birth - females,87.4
+ES,Spagna,2030,Life expectancy at birth - females,87.5
+ES,Spagna,2035,Life expectancy at birth - females,88.0
+ES,Spagna,2040,Life expectancy at birth - females,88.5
+ES,Spagna,2045,Life expectancy at birth - females,89.0
+ES,Spagna,2050,Life expectancy at birth - females,89.5
+FI,Finlandia,2026,Life expectancy at birth - females,84.7
+FI,Finlandia,2027,Life expectancy at birth - females,84.9
+FI,Finlandia,2028,Life expectancy at birth - females,85.0
+FI,Finlandia,2029,Life expectancy at birth - females,85.1
+FI,Finlandia,2030,Life expectancy at birth - females,85.3
+FI,Finlandia,2035,Life expectancy at birth - females,85.9
+FI,Finlandia,2040,Life expectancy at birth - females,86.5
+FI,Finlandia,2045,Life expectancy at birth - females,87.2
+FI,Finlandia,2050,Life expectancy at birth - females,87.8
+FR,Francia,2026,Life expectancy at birth - females,86.1
+FR,Francia,2027,Life expectancy at birth - females,86.2
+FR,Francia,2028,Life expectancy at birth - females,86.4
+FR,Francia,2029,Life expectancy at birth - females,86.5
+FR,Francia,2030,Life expectancy at birth - females,86.6
+FR,Francia,2035,Life expectancy at birth - females,87.2
+FR,Francia,2040,Life expectancy at birth - females,87.8
+FR,Francia,2045,Life expectancy at birth - females,88.4
+FR,Francia,2050,Life expectancy at birth - females,88.9
+HR,Croazia,2026,Life expectancy at birth - females,82.3
+HR,Croazia,2027,Life expectancy at birth - females,82.5
+HR,Croazia,2028,Life expectancy at birth - females,82.6
+HR,Croazia,2029,Life expectancy at birth - females,82.8
+HR,Croazia,2030,Life expectancy at birth - females,82.9
+HR,Croazia,2035,Life expectancy at birth - females,83.7
+HR,Croazia,2040,Life expectancy at birth - females,84.5
+HR,Croazia,2045,Life expectancy at birth - females,85.2
+HR,Croazia,2050,Life expectancy at birth - females,85.9
+HU,Ungheria,2026,Life expectancy at birth - females,80.5
+HU,Ungheria,2027,Life expectancy at birth - females,80.7
+HU,Ungheria,2028,Life expectancy at birth - females,80.9
+HU,Ungheria,2029,Life expectancy at birth - females,81.1
+HU,Ungheria,2030,Life expectancy at birth - females,81.3
+HU,Ungheria,2035,Life expectancy at birth - females,82.2
+HU,Ungheria,2040,Life expectancy at birth - females,83.2
+HU,Ungheria,2045,Life expectancy at birth - females,84.0
+HU,Ungheria,2050,Life expectancy at birth - females,84.9
+IE,Irlanda,2026,Life expectancy at birth - females,85.0
+IE,Irlanda,2027,Life expectancy at birth - females,85.2
+IE,Irlanda,2028,Life expectancy at birth - females,85.3
+IE,Irlanda,2029,Life expectancy at birth - females,85.4
+IE,Irlanda,2030,Life expectancy at birth - females,85.6
+IE,Irlanda,2035,Life expectancy at birth - females,86.2
+IE,Irlanda,2040,Life expectancy at birth - females,86.8
+IE,Irlanda,2045,Life expectancy at birth - females,87.4
+IE,Irlanda,2050,Life expectancy at birth - females,88.0
+IS,Islanda,2026,Life expectancy at birth - females,84.7
+IS,Islanda,2027,Life expectancy at birth - females,84.9
+IS,Islanda,2028,Life expectancy at birth - females,85.0
+IS,Islanda,2029,Life expectancy at birth - females,85.1
+IS,Islanda,2030,Life expectancy at birth - females,85.3
+IS,Islanda,2035,Life expectancy at birth - females,85.9
+IS,Islanda,2040,Life expectancy at birth - females,86.5
+IS,Islanda,2045,Life expectancy at birth - females,87.1
+IS,Islanda,2050,Life expectancy at birth - females,87.7
+IT,Italia,2026,Life expectancy at birth - females,85.8
+IT,Italia,2027,Life expectancy at birth - females,85.9
+IT,Italia,2028,Life expectancy at birth - females,86.0
+IT,Italia,2029,Life expectancy at birth - females,86.1
+IT,Italia,2030,Life expectancy at birth - females,86.2
+IT,Italia,2035,Life expectancy at birth - females,86.8
+IT,Italia,2040,Life expectancy at birth - females,87.4
+IT,Italia,2045,Life expectancy at birth - females,87.9
+IT,Italia,2050,Life expectancy at birth - females,88.5
+LT,Lituania,2026,Life expectancy at birth - females,82.4
+LT,Lituania,2027,Life expectancy at birth - females,82.6
+LT,Lituania,2028,Life expectancy at birth - females,82.8
+LT,Lituania,2029,Life expectancy at birth - females,82.9
+LT,Lituania,2030,Life expectancy at birth - females,83.1
+LT,Lituania,2035,Life expectancy at birth - females,83.9
+LT,Lituania,2040,Life expectancy at birth - females,84.8
+LT,Lituania,2045,Life expectancy at birth - females,85.5
+LT,Lituania,2050,Life expectancy at birth - females,86.3
+LU,Lussemburgo,2026,Life expectancy at birth - females,85.4
+LU,Lussemburgo,2027,Life expectancy at birth - females,85.5
+LU,Lussemburgo,2028,Life expectancy at birth - females,85.7
+LU,Lussemburgo,2029,Life expectancy at birth - females,85.8
+LU,Lussemburgo,2030,Life expectancy at birth - females,85.9
+LU,Lussemburgo,2035,Life expectancy at birth - females,86.5
+LU,Lussemburgo,2040,Life expectancy at birth - females,87.2
+LU,Lussemburgo,2045,Life expectancy at birth - females,87.7
+LU,Lussemburgo,2050,Life expectancy at birth - females,88.3
+LV,Lettonia,2026,Life expectancy at birth - females,81.2
+LV,Lettonia,2027,Life expectancy at birth - females,81.4
+LV,Lettonia,2028,Life expectancy at birth - females,81.6
+LV,Lettonia,2029,Life expectancy at birth - females,81.8
+LV,Lettonia,2030,Life expectancy at birth - females,82.0
+LV,Lettonia,2035,Life expectancy at birth - females,82.9
+LV,Lettonia,2040,Life expectancy at birth - females,83.8
+LV,Lettonia,2045,Life expectancy at birth - females,84.6
+LV,Lettonia,2050,Life expectancy at birth - females,85.4
+MT,Malta,2026,Life expectancy at birth - females,85.6
+MT,Malta,2027,Life expectancy at birth - females,85.7
+MT,Malta,2028,Life expectancy at birth - females,85.9
+MT,Malta,2029,Life expectancy at birth - females,86.0
+MT,Malta,2030,Life expectancy at birth - females,86.1
+MT,Malta,2035,Life expectancy at birth - females,86.8
+MT,Malta,2040,Life expectancy at birth - females,87.4
+MT,Malta,2045,Life expectancy at birth - females,87.9
+MT,Malta,2050,Life expectancy at birth - females,88.5
+NL,Paesi Bassi,2026,Life expectancy at birth - females,83.9
+NL,Paesi Bassi,2027,Life expectancy at birth - females,84.0
+NL,Paesi Bassi,2028,Life expectancy at birth - females,84.2
+NL,Paesi Bassi,2029,Life expectancy at birth - females,84.3
+NL,Paesi Bassi,2030,Life expectancy at birth - females,84.4
+NL,Paesi Bassi,2035,Life expectancy at birth - females,85.2
+NL,Paesi Bassi,2040,Life expectancy at birth - females,85.8
+NL,Paesi Bassi,2045,Life expectancy at birth - females,86.5
+NL,Paesi Bassi,2050,Life expectancy at birth - females,87.1
+NO,Norvegia,2026,Life expectancy at birth - females,85.0
+NO,Norvegia,2027,Life expectancy at birth - females,85.1
+NO,Norvegia,2028,Life expectancy at birth - females,85.3
+NO,Norvegia,2029,Life expectancy at birth - females,85.4
+NO,Norvegia,2030,Life expectancy at birth - females,85.5
+NO,Norvegia,2035,Life expectancy at birth - females,86.2
+NO,Norvegia,2040,Life expectancy at birth - females,86.8
+NO,Norvegia,2045,Life expectancy at birth - females,87.4
+NO,Norvegia,2050,Life expectancy at birth - females,87.9
+PL,Polonia,2026,Life expectancy at birth - females,82.6
+PL,Polonia,2027,Life expectancy at birth - females,82.8
+PL,Polonia,2028,Life expectancy at birth - females,83.0
+PL,Polonia,2029,Life expectancy at birth - females,83.2
+PL,Polonia,2030,Life expectancy at birth - females,83.3
+PL,Polonia,2035,Life expectancy at birth - females,84.2
+PL,Polonia,2040,Life expectancy at birth - females,85.0
+PL,Polonia,2045,Life expectancy at birth - females,85.7
+PL,Polonia,2050,Life expectancy at birth - females,86.5
+PT,Portogallo,2026,Life expectancy at birth - females,85.7
+PT,Portogallo,2027,Life expectancy at birth - females,85.8
+PT,Portogallo,2028,Life expectancy at birth - females,85.9
+PT,Portogallo,2029,Life expectancy at birth - females,86.1
+PT,Portogallo,2030,Life expectancy at birth - females,86.2
+PT,Portogallo,2035,Life expectancy at birth - females,86.8
+PT,Portogallo,2040,Life expectancy at birth - females,87.3
+PT,Portogallo,2045,Life expectancy at birth - females,87.9
+PT,Portogallo,2050,Life expectancy at birth - females,88.4
+RO,Romania,2026,Life expectancy at birth - females,81.0
+RO,Romania,2027,Life expectancy at birth - females,81.2
+RO,Romania,2028,Life expectancy at birth - females,81.4
+RO,Romania,2029,Life expectancy at birth - females,81.6
+RO,Romania,2030,Life expectancy at birth - females,81.8
+RO,Romania,2035,Life expectancy at birth - females,82.7
+RO,Romania,2040,Life expectancy at birth - females,83.6
+RO,Romania,2045,Life expectancy at birth - females,84.5
+RO,Romania,2050,Life expectancy at birth - females,85.3
+SE,Svezia,2026,Life expectancy at birth - females,85.4
+SE,Svezia,2027,Life expectancy at birth - females,85.5
+SE,Svezia,2028,Life expectancy at birth - females,85.6
+SE,Svezia,2029,Life expectancy at birth - females,85.8
+SE,Svezia,2030,Life expectancy at birth - females,85.9
+SE,Svezia,2035,Life expectancy at birth - females,86.5
+SE,Svezia,2040,Life expectancy at birth - females,87.1
+SE,Svezia,2045,Life expectancy at birth - females,87.7
+SE,Svezia,2050,Life expectancy at birth - females,88.2
+SI,Slovenia,2026,Life expectancy at birth - females,85.3
+SI,Slovenia,2027,Life expectancy at birth - females,85.4
+SI,Slovenia,2028,Life expectancy at birth - females,85.5
+SI,Slovenia,2029,Life expectancy at birth - females,85.7
+SI,Slovenia,2030,Life expectancy at birth - females,85.8
+SI,Slovenia,2035,Life expectancy at birth - females,86.4
+SI,Slovenia,2040,Life expectancy at birth - females,87.0
+SI,Slovenia,2045,Life expectancy at birth - females,87.6
+SI,Slovenia,2050,Life expectancy at birth - females,88.1
+SK,Slovacchia,2026,Life expectancy at birth - females,82.0
+SK,Slovacchia,2027,Life expectancy at birth - females,82.2
+SK,Slovacchia,2028,Life expectancy at birth - females,82.4
+SK,Slovacchia,2029,Life expectancy at birth - females,82.6
+SK,Slovacchia,2030,Life expectancy at birth - females,82.7
+SK,Slovacchia,2035,Life expectancy at birth - females,83.6
+SK,Slovacchia,2040,Life expectancy at birth - females,84.4
+SK,Slovacchia,2045,Life expectancy at birth - females,85.2
+SK,Slovacchia,2050,Life expectancy at birth - females,86.0
+AT,Austria,2026,Population on 1 January - total,9247001.0
+AT,Austria,2027,Population on 1 January - total,9291378.0
+AT,Austria,2028,Population on 1 January - total,9331302.0
+AT,Austria,2029,Population on 1 January - total,9366785.0
+AT,Austria,2030,Population on 1 January - total,9400240.0
+AT,Austria,2035,Population on 1 January - total,9545135.0
+AT,Austria,2040,Population on 1 January - total,9668403.0
+AT,Austria,2045,Population on 1 January - total,9763284.0
+AT,Austria,2050,Population on 1 January - total,9824510.0
+BE,Belgio,2026,Population on 1 January - total,11930000.0
+BE,Belgio,2027,Population on 1 January - total,11978640.0
+BE,Belgio,2028,Population on 1 January - total,12022973.0
+BE,Belgio,2029,Population on 1 January - total,12062955.0
+BE,Belgio,2030,Population on 1 January - total,12100708.0
+BE,Belgio,2035,Population on 1 January - total,12272820.0
+BE,Belgio,2040,Population on 1 January - total,12427992.0
+BE,Belgio,2045,Population on 1 January - total,12548950.0
+BE,Belgio,2050,Population on 1 January - total,12627644.0
+BG,Bulgaria,2026,Population on 1 January - total,6399909.0
+BG,Bulgaria,2027,Population on 1 January - total,6369661.0
+BG,Bulgaria,2028,Population on 1 January - total,6336594.0
+BG,Bulgaria,2029,Population on 1 January - total,6301109.0
+BG,Bulgaria,2030,Population on 1 January - total,6265740.0
+BG,Bulgaria,2035,Population on 1 January - total,6093676.0
+BG,Bulgaria,2040,Population on 1 January - total,5940680.0
+BG,Bulgaria,2045,Population on 1 January - total,5804095.0
+BG,Bulgaria,2050,Population on 1 January - total,5679548.0
+CY,Cipro,2026,Population on 1 January - total,987137.0
+CY,Cipro,2027,Population on 1 January - total,993268.0
+CY,Cipro,2028,Population on 1 January - total,998285.0
+CY,Cipro,2029,Population on 1 January - total,1002203.0
+CY,Cipro,2030,Population on 1 January - total,1005646.0
+CY,Cipro,2035,Population on 1 January - total,1018335.0
+CY,Cipro,2040,Population on 1 January - total,1027959.0
+CY,Cipro,2045,Population on 1 January - total,1034535.0
+CY,Cipro,2050,Population on 1 January - total,1039420.0
+CZ,Cechia,2026,Population on 1 January - total,10932664.0
+CZ,Cechia,2027,Population on 1 January - total,10943114.0
+CZ,Cechia,2028,Population on 1 January - total,10940852.0
+CZ,Cechia,2029,Population on 1 January - total,10927675.0
+CZ,Cechia,2030,Population on 1 January - total,10913208.0
+CZ,Cechia,2035,Population on 1 January - total,10824463.0
+CZ,Cechia,2040,Population on 1 January - total,10806645.0
+CZ,Cechia,2045,Population on 1 January - total,10811983.0
+CZ,Cechia,2050,Population on 1 January - total,10807853.0
+DE,Germania,2026,Population on 1 January - total,83561619.0
+DE,Germania,2027,Population on 1 January - total,83614411.0
+DE,Germania,2028,Population on 1 January - total,83653182.0
+DE,Germania,2029,Population on 1 January - total,83682304.0
+DE,Germania,2030,Population on 1 January - total,83705830.0
+DE,Germania,2035,Population on 1 January - total,83755430.0
+DE,Germania,2040,Population on 1 January - total,83815221.0
+DE,Germania,2045,Population on 1 January - total,83769323.0
+DE,Germania,2050,Population on 1 January - total,83583147.0
+DK,Danimarca,2026,Population on 1 January - total,6014710.0
+DK,Danimarca,2027,Population on 1 January - total,6034783.0
+DK,Danimarca,2028,Population on 1 January - total,6053032.0
+DK,Danimarca,2029,Population on 1 January - total,6069669.0
+DK,Danimarca,2030,Population on 1 January - total,6085645.0
+DK,Danimarca,2035,Population on 1 January - total,6149258.0
+DK,Danimarca,2040,Population on 1 January - total,6195826.0
+DK,Danimarca,2045,Population on 1 January - total,6227496.0
+DK,Danimarca,2050,Population on 1 January - total,6249529.0
+EE,Estonia,2026,Population on 1 January - total,1372958.0
+EE,Estonia,2027,Population on 1 January - total,1374852.0
+EE,Estonia,2028,Population on 1 January - total,1374964.0
+EE,Estonia,2029,Population on 1 January - total,1373295.0
+EE,Estonia,2030,Population on 1 January - total,1371705.0
+EE,Estonia,2035,Population on 1 January - total,1363665.0
+EE,Estonia,2040,Population on 1 January - total,1363311.0
+EE,Estonia,2045,Population on 1 January - total,1363716.0
+EE,Estonia,2050,Population on 1 January - total,1362935.0
+EL,Grecia,2026,Population on 1 January - total,10368291.0
+EL,Grecia,2027,Population on 1 January - total,10328548.0
+EL,Grecia,2028,Population on 1 January - total,10282296.0
+EL,Grecia,2029,Population on 1 January - total,10229739.0
+EL,Grecia,2030,Population on 1 January - total,10179760.0
+EL,Grecia,2035,Population on 1 January - total,9948018.0
+EL,Grecia,2040,Population on 1 January - total,9733868.0
+EL,Grecia,2045,Population on 1 January - total,9520950.0
+EL,Grecia,2050,Population on 1 January - total,9289671.0
+ES,Spagna,2026,Population on 1 January - total,49446394.0
+ES,Spagna,2027,Population on 1 January - total,49747937.0
+ES,Spagna,2028,Population on 1 January - total,49982707.0
+ES,Spagna,2029,Population on 1 January - total,50152985.0
+ES,Spagna,2030,Population on 1 January - total,50316529.0
+ES,Spagna,2035,Population on 1 January - total,51088143.0
+ES,Spagna,2040,Population on 1 January - total,51786305.0
+ES,Spagna,2045,Population on 1 January - total,52291720.0
+ES,Spagna,2050,Population on 1 January - total,52476853.0
+FI,Finlandia,2026,Population on 1 January - total,5654083.0
+FI,Finlandia,2027,Population on 1 January - total,5667059.0
+FI,Finlandia,2028,Population on 1 January - total,5676029.0
+FI,Finlandia,2029,Population on 1 January - total,5680873.0
+FI,Finlandia,2030,Population on 1 January - total,5684785.0
+FI,Finlandia,2035,Population on 1 January - total,5694293.0
+FI,Finlandia,2040,Population on 1 January - total,5692981.0
+FI,Finlandia,2045,Population on 1 January - total,5687578.0
+FI,Finlandia,2050,Population on 1 January - total,5679826.0
+FR,Francia,2026,Population on 1 January - total,68808466.0
+FR,Francia,2027,Population on 1 January - total,68970980.0
+FR,Francia,2028,Population on 1 January - total,69123876.0
+FR,Francia,2029,Population on 1 January - total,69269266.0
+FR,Francia,2030,Population on 1 January - total,69405422.0
+FR,Francia,2035,Population on 1 January - total,70011863.0
+FR,Francia,2040,Population on 1 January - total,70520657.0
+FR,Francia,2045,Population on 1 January - total,70819012.0
+FR,Francia,2050,Population on 1 January - total,70938090.0
+HR,Croazia,2026,Population on 1 January - total,3859461.0
+HR,Croazia,2027,Population on 1 January - total,3849925.0
+HR,Croazia,2028,Population on 1 January - total,3834856.0
+HR,Croazia,2029,Population on 1 January - total,3814344.0
+HR,Croazia,2030,Population on 1 January - total,3793995.0
+HR,Croazia,2035,Population on 1 January - total,3693232.0
+HR,Croazia,2040,Population on 1 January - total,3594387.0
+HR,Croazia,2045,Population on 1 January - total,3497939.0
+HR,Croazia,2050,Population on 1 January - total,3406629.0
+HU,Ungheria,2026,Population on 1 January - total,9519284.0
+HU,Ungheria,2027,Population on 1 January - total,9497447.0
+HU,Ungheria,2028,Population on 1 January - total,9473161.0
+HU,Ungheria,2029,Population on 1 January - total,9447777.0
+HU,Ungheria,2030,Population on 1 January - total,9423123.0
+HU,Ungheria,2035,Population on 1 January - total,9303659.0
+HU,Ungheria,2040,Population on 1 January - total,9193765.0
+HU,Ungheria,2045,Population on 1 January - total,9101538.0
+HU,Ungheria,2050,Population on 1 January - total,9011323.0
+IE,Irlanda,2026,Population on 1 January - total,5462890.0
+IE,Irlanda,2027,Population on 1 January - total,5503239.0
+IE,Irlanda,2028,Population on 1 January - total,5542075.0
+IE,Irlanda,2029,Population on 1 January - total,5579452.0
+IE,Irlanda,2030,Population on 1 January - total,5614419.0
+IE,Irlanda,2035,Population on 1 January - total,5773093.0
+IE,Irlanda,2040,Population on 1 January - total,5925837.0
+IE,Irlanda,2045,Population on 1 January - total,6065906.0
+IE,Irlanda,2050,Population on 1 January - total,6182489.0
+IS,Islanda,2026,Population on 1 January - total,400772.0
+IS,Islanda,2027,Population on 1 January - total,408740.0
+IS,Islanda,2028,Population on 1 January - total,416325.0
+IS,Islanda,2029,Population on 1 January - total,423520.0
+IS,Islanda,2030,Population on 1 January - total,430262.0
+IS,Islanda,2035,Population on 1 January - total,462376.0
+IS,Islanda,2040,Population on 1 January - total,492279.0
+IS,Islanda,2045,Population on 1 January - total,519256.0
+IS,Islanda,2050,Population on 1 January - total,543452.0
+IT,Italia,2026,Population on 1 January - total,58879759.0
+IT,Italia,2027,Population on 1 January - total,58808800.0
+IT,Italia,2028,Population on 1 January - total,58720275.0
+IT,Italia,2029,Population on 1 January - total,58617276.0
+IT,Italia,2030,Population on 1 January - total,58519546.0
+IT,Italia,2035,Population on 1 January - total,58005624.0
+IT,Italia,2040,Population on 1 January - total,57451803.0
+IT,Italia,2045,Population on 1 January - total,56731533.0
+IT,Italia,2050,Population on 1 January - total,55748271.0
+LT,Lituania,2026,Population on 1 January - total,2906952.0
+LT,Lituania,2027,Population on 1 January - total,2908847.0
+LT,Lituania,2028,Population on 1 January - total,2904963.0
+LT,Lituania,2029,Population on 1 January - total,2895572.0
+LT,Lituania,2030,Population on 1 January - total,2886241.0
+LT,Lituania,2035,Population on 1 January - total,2838690.0
+LT,Lituania,2040,Population on 1 January - total,2797956.0
+LT,Lituania,2045,Population on 1 January - total,2759001.0
+LT,Lituania,2050,Population on 1 January - total,2720877.0
+LU,Lussemburgo,2026,Population on 1 January - total,695168.0
+LU,Lussemburgo,2027,Population on 1 January - total,706830.0
+LU,Lussemburgo,2028,Population on 1 January - total,718294.0
+LU,Lussemburgo,2029,Population on 1 January - total,729551.0
+LU,Lussemburgo,2030,Population on 1 January - total,739567.0
+LU,Lussemburgo,2035,Population on 1 January - total,783787.0
+LU,Lussemburgo,2040,Population on 1 January - total,820065.0
+LU,Lussemburgo,2045,Population on 1 January - total,849025.0
+LU,Lussemburgo,2050,Population on 1 January - total,870600.0
+LV,Lettonia,2026,Population on 1 January - total,1832593.0
+LV,Lettonia,2027,Population on 1 January - total,1812495.0
+LV,Lettonia,2028,Population on 1 January - total,1791647.0
+LV,Lettonia,2029,Population on 1 January - total,1770076.0
+LV,Lettonia,2030,Population on 1 January - total,1749450.0
+LV,Lettonia,2035,Population on 1 January - total,1652334.0
+LV,Lettonia,2040,Population on 1 January - total,1572235.0
+LV,Lettonia,2045,Population on 1 January - total,1501452.0
+LV,Lettonia,2050,Population on 1 January - total,1437395.0
+MT,Malta,2026,Population on 1 January - total,597416.0
+MT,Malta,2027,Population on 1 January - total,612384.0
+MT,Malta,2028,Population on 1 January - total,625234.0
+MT,Malta,2029,Population on 1 January - total,635932.0
+MT,Malta,2030,Population on 1 January - total,644945.0
+MT,Malta,2035,Population on 1 January - total,684424.0
+MT,Malta,2040,Population on 1 January - total,716489.0
+MT,Malta,2045,Population on 1 January - total,743017.0
+MT,Malta,2050,Population on 1 January - total,765413.0
+NL,Paesi Bassi,2026,Population on 1 January - total,18165025.0
+NL,Paesi Bassi,2027,Population on 1 January - total,18274506.0
+NL,Paesi Bassi,2028,Population on 1 January - total,18373613.0
+NL,Paesi Bassi,2029,Population on 1 January - total,18462182.0
+NL,Paesi Bassi,2030,Population on 1 January - total,18546663.0
+NL,Paesi Bassi,2035,Population on 1 January - total,18935639.0
+NL,Paesi Bassi,2040,Population on 1 January - total,19260541.0
+NL,Paesi Bassi,2045,Population on 1 January - total,19507927.0
+NL,Paesi Bassi,2050,Population on 1 January - total,19692915.0
+NO,Norvegia,2026,Population on 1 January - total,5626351.0
+NO,Norvegia,2027,Population on 1 January - total,5658112.0
+NO,Norvegia,2028,Population on 1 January - total,5689502.0
+NO,Norvegia,2029,Population on 1 January - total,5720429.0
+NO,Norvegia,2030,Population on 1 January - total,5750271.0
+NO,Norvegia,2035,Population on 1 January - total,5885875.0
+NO,Norvegia,2040,Population on 1 January - total,6011449.0
+NO,Norvegia,2045,Population on 1 January - total,6118496.0
+NO,Norvegia,2050,Population on 1 January - total,6206202.0
+PL,Polonia,2026,Population on 1 January - total,37439467.0
+PL,Polonia,2027,Population on 1 January - total,37308180.0
+PL,Polonia,2028,Population on 1 January - total,37153041.0
+PL,Polonia,2029,Population on 1 January - total,36977224.0
+PL,Polonia,2030,Population on 1 January - total,36801928.0
+PL,Polonia,2035,Population on 1 January - total,35893756.0
+PL,Polonia,2040,Population on 1 January - total,35174551.0
+PL,Polonia,2045,Population on 1 January - total,34506490.0
+PL,Polonia,2050,Population on 1 January - total,33851617.0
+PT,Portogallo,2026,Population on 1 January - total,10821767.0
+PT,Portogallo,2027,Population on 1 January - total,10883800.0
+PT,Portogallo,2028,Population on 1 January - total,10927290.0
+PT,Portogallo,2029,Population on 1 January - total,10952810.0
+PT,Portogallo,2030,Population on 1 January - total,10977124.0
+PT,Portogallo,2035,Population on 1 January - total,11069911.0
+PT,Portogallo,2040,Population on 1 January - total,11125792.0
+PT,Portogallo,2045,Population on 1 January - total,11125225.0
+PT,Portogallo,2050,Population on 1 January - total,11067479.0
+RO,Romania,2026,Population on 1 January - total,18935311.0
+RO,Romania,2027,Population on 1 January - total,18849686.0
+RO,Romania,2028,Population on 1 January - total,18749524.0
+RO,Romania,2029,Population on 1 January - total,18635973.0
+RO,Romania,2030,Population on 1 January - total,18525646.0
+RO,Romania,2035,Population on 1 January - total,18035462.0
+RO,Romania,2040,Population on 1 January - total,17599382.0
+RO,Romania,2045,Population on 1 January - total,17195466.0
+RO,Romania,2050,Population on 1 January - total,16794825.0
+SE,Svezia,2026,Population on 1 January - total,10623958.0
+SE,Svezia,2027,Population on 1 January - total,10665468.0
+SE,Svezia,2028,Population on 1 January - total,10712258.0
+SE,Svezia,2029,Population on 1 January - total,10764416.0
+SE,Svezia,2030,Population on 1 January - total,10815035.0
+SE,Svezia,2035,Population on 1 January - total,11045670.0
+SE,Svezia,2040,Population on 1 January - total,11269013.0
+SE,Svezia,2045,Population on 1 January - total,11494309.0
+SE,Svezia,2050,Population on 1 January - total,11707823.0
+SI,Slovenia,2026,Population on 1 January - total,2132874.0
+SI,Slovenia,2027,Population on 1 January - total,2135566.0
+SI,Slovenia,2028,Population on 1 January - total,2137123.0
+SI,Slovenia,2029,Population on 1 January - total,2137704.0
+SI,Slovenia,2030,Population on 1 January - total,2138182.0
+SI,Slovenia,2035,Population on 1 January - total,2138158.0
+SI,Slovenia,2040,Population on 1 January - total,2136752.0
+SI,Slovenia,2045,Population on 1 January - total,2132441.0
+SI,Slovenia,2050,Population on 1 January - total,2121551.0
+SK,Slovacchia,2026,Population on 1 January - total,5542144.0
+SK,Slovacchia,2027,Population on 1 January - total,5532181.0
+SK,Slovacchia,2028,Population on 1 January - total,5520745.0
+SK,Slovacchia,2029,Population on 1 January - total,5508528.0
+SK,Slovacchia,2030,Population on 1 January - total,5495332.0
+SK,Slovacchia,2035,Population on 1 January - total,5413553.0
+SK,Slovacchia,2040,Population on 1 January - total,5345716.0
+SK,Slovacchia,2045,Population on 1 January - total,5281113.0
+SK,Slovacchia,2050,Population on 1 January - total,5211414.0
+AT,Austria,2026,Population on 1 January - total,9184020.0
+AT,Austria,2027,Population on 1 January - total,9168150.0
+AT,Austria,2028,Population on 1 January - total,9150413.0
+AT,Austria,2029,Population on 1 January - total,9130671.0
+AT,Austria,2030,Population on 1 January - total,9108825.0
+AT,Austria,2035,Population on 1 January - total,8968373.0
+AT,Austria,2040,Population on 1 January - total,8784226.0
+AT,Austria,2045,Population on 1 January - total,8566087.0
+AT,Austria,2050,Population on 1 January - total,8310955.0
+BE,Belgio,2026,Population on 1 January - total,11877593.0
+BE,Belgio,2027,Population on 1 January - total,11876375.0
+BE,Belgio,2028,Population on 1 January - total,11873393.0
+BE,Belgio,2029,Population on 1 January - total,11868637.0
+BE,Belgio,2030,Population on 1 January - total,11862080.0
+BE,Belgio,2035,Population on 1 January - total,11801769.0
+BE,Belgio,2040,Population on 1 January - total,11697629.0
+BE,Belgio,2045,Population on 1 January - total,11548050.0
+BE,Belgio,2050,Population on 1 January - total,11346478.0
+BG,Bulgaria,2026,Population on 1 January - total,6383899.0
+BG,Bulgaria,2027,Population on 1 January - total,6339501.0
+BG,Bulgaria,2028,Population on 1 January - total,6294794.0
+BG,Bulgaria,2029,Population on 1 January - total,6249901.0
+BG,Bulgaria,2030,Population on 1 January - total,6204923.0
+BG,Bulgaria,2035,Population on 1 January - total,5982766.0
+BG,Bulgaria,2040,Population on 1 January - total,5771632.0
+BG,Bulgaria,2045,Population on 1 January - total,5574221.0
+BG,Bulgaria,2050,Population on 1 January - total,5389399.0
+CY,Cipro,2026,Population on 1 January - total,982265.0
+CY,Cipro,2027,Population on 1 January - total,984256.0
+CY,Cipro,2028,Population on 1 January - total,985851.0
+CY,Cipro,2029,Population on 1 January - total,987024.0
+CY,Cipro,2030,Population on 1 January - total,987788.0
+CY,Cipro,2035,Population on 1 January - total,985494.0
+CY,Cipro,2040,Population on 1 January - total,974801.0
+CY,Cipro,2045,Population on 1 January - total,959090.0
+CY,Cipro,2050,Population on 1 January - total,940399.0
+CZ,Cechia,2026,Population on 1 January - total,10881330.0
+CZ,Cechia,2027,Population on 1 January - total,10850323.0
+CZ,Cechia,2028,Population on 1 January - total,10816609.0
+CZ,Cechia,2029,Population on 1 January - total,10780423.0
+CZ,Cechia,2030,Population on 1 January - total,10742000.0
+CZ,Cechia,2035,Population on 1 January - total,10526260.0
+CZ,Cechia,2040,Population on 1 January - total,10293972.0
+CZ,Cechia,2045,Population on 1 January - total,10060313.0
+CZ,Cechia,2050,Population on 1 January - total,9819325.0
+DE,Germania,2026,Population on 1 January - total,83171354.0
+DE,Germania,2027,Population on 1 January - total,82828953.0
+DE,Germania,2028,Population on 1 January - total,82473453.0
+DE,Germania,2029,Population on 1 January - total,82105754.0
+DE,Germania,2030,Population on 1 January - total,81726949.0
+DE,Germania,2035,Population on 1 January - total,79700769.0
+DE,Germania,2040,Population on 1 January - total,77499126.0
+DE,Germania,2045,Population on 1 January - total,75102529.0
+DE,Germania,2050,Population on 1 January - total,72478139.0
+DK,Danimarca,2026,Population on 1 January - total,5993140.0
+DK,Danimarca,2027,Population on 1 January - total,5993040.0
+DK,Danimarca,2028,Population on 1 January - total,5992216.0
+DK,Danimarca,2029,Population on 1 January - total,5990493.0
+DK,Danimarca,2030,Population on 1 January - total,5987718.0
+DK,Danimarca,2035,Population on 1 January - total,5955272.0
+DK,Danimarca,2040,Population on 1 January - total,5893562.0
+DK,Danimarca,2045,Population on 1 January - total,5810698.0
+DK,Danimarca,2050,Population on 1 January - total,5714885.0
+EE,Estonia,2026,Population on 1 January - total,1363942.0
+EE,Estonia,2027,Population on 1 January - total,1358405.0
+EE,Estonia,2028,Population on 1 January - total,1352683.0
+EE,Estonia,2029,Population on 1 January - total,1346824.0
+EE,Estonia,2030,Population on 1 January - total,1340857.0
+EE,Estonia,2035,Population on 1 January - total,1310583.0
+EE,Estonia,2040,Population on 1 January - total,1281411.0
+EE,Estonia,2045,Population on 1 January - total,1252543.0
+EE,Estonia,2050,Population on 1 January - total,1221094.0
+EL,Grecia,2026,Population on 1 January - total,10343246.0
+EL,Grecia,2027,Population on 1 January - total,10285404.0
+EL,Grecia,2028,Population on 1 January - total,10227697.0
+EL,Grecia,2029,Population on 1 January - total,10170146.0
+EL,Grecia,2030,Population on 1 January - total,10112768.0
+EL,Grecia,2035,Population on 1 January - total,9827519.0
+EL,Grecia,2040,Population on 1 January - total,9536112.0
+EL,Grecia,2045,Population on 1 January - total,9218940.0
+EL,Grecia,2050,Population on 1 January - total,8859906.0
+ES,Spagna,2026,Population on 1 January - total,48967026.0
+ES,Spagna,2027,Population on 1 January - total,48847377.0
+ES,Spagna,2028,Population on 1 January - total,48719593.0
+ES,Spagna,2029,Population on 1 January - total,48584090.0
+ES,Spagna,2030,Population on 1 January - total,48441163.0
+ES,Spagna,2035,Population on 1 January - total,47618173.0
+ES,Spagna,2040,Population on 1 January - total,46598916.0
+ES,Spagna,2045,Population on 1 January - total,45330667.0
+ES,Spagna,2050,Population on 1 January - total,43746588.0
+FI,Finlandia,2026,Population on 1 January - total,5619956.0
+FI,Finlandia,2027,Population on 1 January - total,5601847.0
+FI,Finlandia,2028,Population on 1 January - total,5582831.0
+FI,Finlandia,2029,Population on 1 January - total,5562857.0
+FI,Finlandia,2030,Population on 1 January - total,5541896.0
+FI,Finlandia,2035,Population on 1 January - total,5422722.0
+FI,Finlandia,2040,Population on 1 January - total,5284996.0
+FI,Finlandia,2045,Population on 1 January - total,5136871.0
+FI,Finlandia,2050,Population on 1 January - total,4980216.0
+FR,Francia,2026,Population on 1 January - total,68665969.0
+FR,Francia,2027,Population on 1 January - total,68685959.0
+FR,Francia,2028,Population on 1 January - total,68696832.0
+FR,Francia,2029,Population on 1 January - total,68699394.0
+FR,Francia,2030,Population on 1 January - total,68694359.0
+FR,Francia,2035,Population on 1 January - total,68571188.0
+FR,Francia,2040,Population on 1 January - total,68279740.0
+FR,Francia,2045,Population on 1 January - total,67752275.0
+FR,Francia,2050,Population on 1 January - total,66935598.0
+HR,Croazia,2026,Population on 1 January - total,3844147.0
+HR,Croazia,2027,Population on 1 January - total,3824638.0
+HR,Croazia,2028,Population on 1 January - total,3804872.0
+HR,Croazia,2029,Population on 1 January - total,3784824.0
+HR,Croazia,2030,Population on 1 January - total,3764479.0
+HR,Croazia,2035,Population on 1 January - total,3657672.0
+HR,Croazia,2040,Population on 1 January - total,3541720.0
+HR,Croazia,2045,Population on 1 January - total,3418329.0
+HR,Croazia,2050,Population on 1 January - total,3292404.0
+HU,Ungheria,2026,Population on 1 January - total,9498674.0
+HU,Ungheria,2027,Population on 1 January - total,9457152.0
+HU,Ungheria,2028,Population on 1 January - total,9414866.0
+HU,Ungheria,2029,Population on 1 January - total,9371762.0
+HU,Ungheria,2030,Population on 1 January - total,9327795.0
+HU,Ungheria,2035,Population on 1 January - total,9095458.0
+HU,Ungheria,2040,Population on 1 January - total,8846877.0
+HU,Ungheria,2045,Population on 1 January - total,8593097.0
+HU,Ungheria,2050,Population on 1 January - total,8346850.0
+IE,Irlanda,2026,Population on 1 January - total,5439051.0
+IE,Irlanda,2027,Population on 1 January - total,5455667.0
+IE,Irlanda,2028,Population on 1 January - total,5470885.0
+IE,Irlanda,2029,Population on 1 January - total,5484805.0
+IE,Irlanda,2030,Population on 1 January - total,5497509.0
+IE,Irlanda,2035,Population on 1 January - total,5546164.0
+IE,Irlanda,2040,Population on 1 January - total,5578969.0
+IE,Irlanda,2045,Population on 1 January - total,5600650.0
+IE,Irlanda,2050,Population on 1 January - total,5597088.0
+IS,Islanda,2026,Population on 1 January - total,394166.0
+IS,Islanda,2027,Population on 1 January - total,395843.0
+IS,Islanda,2028,Population on 1 January - total,397464.0
+IS,Islanda,2029,Population on 1 January - total,399007.0
+IS,Islanda,2030,Population on 1 January - total,400471.0
+IS,Islanda,2035,Population on 1 January - total,406332.0
+IS,Islanda,2040,Population on 1 January - total,409701.0
+IS,Islanda,2045,Population on 1 January - total,410759.0
+IS,Islanda,2050,Population on 1 January - total,409787.0
+IT,Italia,2026,Population on 1 January - total,58634923.0
+IT,Italia,2027,Population on 1 January - total,58327832.0
+IT,Italia,2028,Population on 1 January - total,58013432.0
+IT,Italia,2029,Population on 1 January - total,57692210.0
+IT,Italia,2030,Population on 1 January - total,57364591.0
+IT,Italia,2035,Population on 1 January - total,55641131.0
+IT,Italia,2040,Population on 1 January - total,53777842.0
+IT,Italia,2045,Population on 1 January - total,51726913.0
+IT,Italia,2050,Population on 1 January - total,49409498.0
+LT,Lituania,2026,Population on 1 January - total,2882802.0
+LT,Lituania,2027,Population on 1 January - total,2865557.0
+LT,Lituania,2028,Population on 1 January - total,2847878.0
+LT,Lituania,2029,Population on 1 January - total,2829796.0
+LT,Lituania,2030,Population on 1 January - total,2811386.0
+LT,Lituania,2035,Population on 1 January - total,2716451.0
+LT,Lituania,2040,Population on 1 January - total,2621308.0
+LT,Lituania,2045,Population on 1 January - total,2525754.0
+LT,Lituania,2050,Population on 1 January - total,2423833.0
+LU,Lussemburgo,2026,Population on 1 January - total,685279.0
+LU,Lussemburgo,2027,Population on 1 January - total,687073.0
+LU,Lussemburgo,2028,Population on 1 January - total,688697.0
+LU,Lussemburgo,2029,Population on 1 January - total,690123.0
+LU,Lussemburgo,2030,Population on 1 January - total,691326.0
+LU,Lussemburgo,2035,Population on 1 January - total,693597.0
+LU,Lussemburgo,2040,Population on 1 January - total,689751.0
+LU,Lussemburgo,2045,Population on 1 January - total,681254.0
+LU,Lussemburgo,2050,Population on 1 January - total,668841.0
+LV,Lettonia,2026,Population on 1 January - total,1838231.0
+LV,Lettonia,2027,Population on 1 January - total,1824255.0
+LV,Lettonia,2028,Population on 1 January - total,1810254.0
+LV,Lettonia,2029,Population on 1 January - total,1796281.0
+LV,Lettonia,2030,Population on 1 January - total,1782388.0
+LV,Lettonia,2035,Population on 1 January - total,1715872.0
+LV,Lettonia,2040,Population on 1 January - total,1656231.0
+LV,Lettonia,2045,Population on 1 January - total,1601242.0
+LV,Lettonia,2050,Population on 1 January - total,1545546.0
+MT,Malta,2026,Population on 1 January - total,581006.0
+MT,Malta,2027,Population on 1 January - total,581428.0
+MT,Malta,2028,Population on 1 January - total,581621.0
+MT,Malta,2029,Population on 1 January - total,581555.0
+MT,Malta,2030,Population on 1 January - total,581233.0
+MT,Malta,2035,Population on 1 January - total,575289.0
+MT,Malta,2040,Population on 1 January - total,562963.0
+MT,Malta,2045,Population on 1 January - total,546974.0
+MT,Malta,2050,Population on 1 January - total,529654.0
+NL,Paesi Bassi,2026,Population on 1 January - total,18043343.0
+NL,Paesi Bassi,2027,Population on 1 January - total,18039467.0
+NL,Paesi Bassi,2028,Population on 1 January - total,18033579.0
+NL,Paesi Bassi,2029,Population on 1 January - total,18025372.0
+NL,Paesi Bassi,2030,Population on 1 January - total,18014525.0
+NL,Paesi Bassi,2035,Population on 1 January - total,17907085.0
+NL,Paesi Bassi,2040,Population on 1 January - total,17685060.0
+NL,Paesi Bassi,2045,Population on 1 January - total,17358510.0
+NL,Paesi Bassi,2050,Population on 1 January - total,16961686.0
+NO,Norvegia,2026,Population on 1 January - total,5602511.0
+NO,Norvegia,2027,Population on 1 January - total,5609646.0
+NO,Norvegia,2028,Population on 1 January - total,5615598.0
+NO,Norvegia,2029,Population on 1 January - total,5620254.0
+NO,Norvegia,2030,Population on 1 January - total,5623526.0
+NO,Norvegia,2035,Population on 1 January - total,5618605.0
+NO,Norvegia,2040,Population on 1 January - total,5583006.0
+NO,Norvegia,2045,Population on 1 January - total,5523351.0
+NO,Norvegia,2050,Population on 1 January - total,5439311.0
+PL,Polonia,2026,Population on 1 January - total,37395793.0
+PL,Polonia,2027,Population on 1 January - total,37235929.0
+PL,Polonia,2028,Population on 1 January - total,37068699.0
+PL,Polonia,2029,Population on 1 January - total,36894582.0
+PL,Polonia,2030,Population on 1 January - total,36714057.0
+PL,Polonia,2035,Population on 1 January - total,35736136.0
+PL,Polonia,2040,Population on 1 January - total,34680002.0
+PL,Polonia,2045,Population on 1 January - total,33566057.0
+PL,Polonia,2050,Population on 1 January - total,32384618.0
+PT,Portogallo,2026,Population on 1 January - total,10707603.0
+PT,Portogallo,2027,Population on 1 January - total,10672853.0
+PT,Portogallo,2028,Population on 1 January - total,10636152.0
+PT,Portogallo,2029,Population on 1 January - total,10597613.0
+PT,Portogallo,2030,Population on 1 January - total,10557306.0
+PT,Portogallo,2035,Population on 1 January - total,10329525.0
+PT,Portogallo,2040,Population on 1 January - total,10055152.0
+PT,Portogallo,2045,Population on 1 January - total,9733331.0
+PT,Portogallo,2050,Population on 1 January - total,9374077.0
+RO,Romania,2026,Population on 1 January - total,18921183.0
+RO,Romania,2027,Population on 1 January - total,18834365.0
+RO,Romania,2028,Population on 1 January - total,18747453.0
+RO,Romania,2029,Population on 1 January - total,18660565.0
+RO,Romania,2030,Population on 1 January - total,18573842.0
+RO,Romania,2035,Population on 1 January - total,18145382.0
+RO,Romania,2040,Population on 1 January - total,17720702.0
+RO,Romania,2045,Population on 1 January - total,17277809.0
+RO,Romania,2050,Population on 1 January - total,16804638.0
+SE,Svezia,2026,Population on 1 January - total,10590265.0
+SE,Svezia,2027,Population on 1 January - total,10590250.0
+SE,Svezia,2028,Population on 1 January - total,10587522.0
+SE,Svezia,2029,Population on 1 January - total,10582021.0
+SE,Svezia,2030,Population on 1 January - total,10573797.0
+SE,Svezia,2035,Population on 1 January - total,10499406.0
+SE,Svezia,2040,Population on 1 January - total,10397595.0
+SE,Svezia,2045,Population on 1 January - total,10293393.0
+SE,Svezia,2050,Population on 1 January - total,10177360.0
+SI,Slovenia,2026,Population on 1 January - total,2123943.0
+SI,Slovenia,2027,Population on 1 January - total,2118230.0
+SI,Slovenia,2028,Population on 1 January - total,2111987.0
+SI,Slovenia,2029,Population on 1 January - total,2105258.0
+SI,Slovenia,2030,Population on 1 January - total,2098091.0
+SI,Slovenia,2035,Population on 1 January - total,2057492.0
+SI,Slovenia,2040,Population on 1 January - total,2011509.0
+SI,Slovenia,2045,Population on 1 January - total,1959233.0
+SI,Slovenia,2050,Population on 1 January - total,1898264.0
+SK,Slovacchia,2026,Population on 1 January - total,5543479.0
+SK,Slovacchia,2027,Population on 1 January - total,5534468.0
+SK,Slovacchia,2028,Population on 1 January - total,5523971.0
+SK,Slovacchia,2029,Population on 1 January - total,5512044.0
+SK,Slovacchia,2030,Population on 1 January - total,5498740.0
+SK,Slovacchia,2035,Population on 1 January - total,5415276.0
+SK,Slovacchia,2040,Population on 1 January - total,5313450.0
+SK,Slovacchia,2045,Population on 1 January - total,5200492.0
+SK,Slovacchia,2050,Population on 1 January - total,5077108.0
+AT,Austria,2026,Life expectancy at birth - males,80.0
+AT,Austria,2027,Life expectancy at birth - males,80.1
+AT,Austria,2028,Life expectancy at birth - males,80.3
+AT,Austria,2029,Life expectancy at birth - males,80.4
+AT,Austria,2030,Life expectancy at birth - males,80.6
+AT,Austria,2035,Life expectancy at birth - males,81.3
+AT,Austria,2040,Life expectancy at birth - males,82.0
+AT,Austria,2045,Life expectancy at birth - males,82.7
+AT,Austria,2050,Life expectancy at birth - males,83.4
+BE,Belgio,2026,Life expectancy at birth - males,80.8
+BE,Belgio,2027,Life expectancy at birth - males,81.0
+BE,Belgio,2028,Life expectancy at birth - males,81.1
+BE,Belgio,2029,Life expectancy at birth - males,81.3
+BE,Belgio,2030,Life expectancy at birth - males,81.4
+BE,Belgio,2035,Life expectancy at birth - males,82.1
+BE,Belgio,2040,Life expectancy at birth - males,82.8
+BE,Belgio,2045,Life expectancy at birth - males,83.4
+BE,Belgio,2050,Life expectancy at birth - males,84.1
+BG,Bulgaria,2026,Life expectancy at birth - males,72.8
+BG,Bulgaria,2027,Life expectancy at birth - males,73.0
+BG,Bulgaria,2028,Life expectancy at birth - males,73.3
+BG,Bulgaria,2029,Life expectancy at birth - males,73.6
+BG,Bulgaria,2030,Life expectancy at birth - males,73.8
+BG,Bulgaria,2035,Life expectancy at birth - males,75.1
+BG,Bulgaria,2040,Life expectancy at birth - males,76.3
+BG,Bulgaria,2045,Life expectancy at birth - males,77.4
+BG,Bulgaria,2050,Life expectancy at birth - males,78.5
+CY,Cipro,2026,Life expectancy at birth - males,81.3
+CY,Cipro,2027,Life expectancy at birth - males,81.4
+CY,Cipro,2028,Life expectancy at birth - males,81.6
+CY,Cipro,2029,Life expectancy at birth - males,81.7
+CY,Cipro,2030,Life expectancy at birth - males,81.8
+CY,Cipro,2035,Life expectancy at birth - males,82.5
+CY,Cipro,2040,Life expectancy at birth - males,83.1
+CY,Cipro,2045,Life expectancy at birth - males,83.7
+CY,Cipro,2050,Life expectancy at birth - males,84.3
+CZ,Cechia,2026,Life expectancy at birth - males,77.5
+CZ,Cechia,2027,Life expectancy at birth - males,77.7
+CZ,Cechia,2028,Life expectancy at birth - males,77.8
+CZ,Cechia,2029,Life expectancy at birth - males,78.0
+CZ,Cechia,2030,Life expectancy at birth - males,78.2
+CZ,Cechia,2035,Life expectancy at birth - males,79.1
+CZ,Cechia,2040,Life expectancy at birth - males,80.0
+CZ,Cechia,2045,Life expectancy at birth - males,80.8
+CZ,Cechia,2050,Life expectancy at birth - males,81.6
+DE,Germania,2026,Life expectancy at birth - males,79.2
+DE,Germania,2027,Life expectancy at birth - males,79.4
+DE,Germania,2028,Life expectancy at birth - males,79.5
+DE,Germania,2029,Life expectancy at birth - males,79.7
+DE,Germania,2030,Life expectancy at birth - males,79.9
+DE,Germania,2035,Life expectancy at birth - males,80.7
+DE,Germania,2040,Life expectancy at birth - males,81.4
+DE,Germania,2045,Life expectancy at birth - males,82.2
+DE,Germania,2050,Life expectancy at birth - males,82.9
+DK,Danimarca,2026,Life expectancy at birth - males,80.4
+DK,Danimarca,2027,Life expectancy at birth - males,80.5
+DK,Danimarca,2028,Life expectancy at birth - males,80.6
+DK,Danimarca,2029,Life expectancy at birth - males,80.8
+DK,Danimarca,2030,Life expectancy at birth - males,80.9
+DK,Danimarca,2035,Life expectancy at birth - males,81.7
+DK,Danimarca,2040,Life expectancy at birth - males,82.3
+DK,Danimarca,2045,Life expectancy at birth - males,83.0
+DK,Danimarca,2050,Life expectancy at birth - males,83.7
+EE,Estonia,2026,Life expectancy at birth - males,75.2
+EE,Estonia,2027,Life expectancy at birth - males,75.4
+EE,Estonia,2028,Life expectancy at birth - males,75.6
+EE,Estonia,2029,Life expectancy at birth - males,75.9
+EE,Estonia,2030,Life expectancy at birth - males,76.1
+EE,Estonia,2035,Life expectancy at birth - males,77.2
+EE,Estonia,2040,Life expectancy at birth - males,78.2
+EE,Estonia,2045,Life expectancy at birth - males,79.2
+EE,Estonia,2050,Life expectancy at birth - males,80.2
+EL,Grecia,2026,Life expectancy at birth - males,79.7
+EL,Grecia,2027,Life expectancy at birth - males,79.9
+EL,Grecia,2028,Life expectancy at birth - males,80.0
+EL,Grecia,2029,Life expectancy at birth - males,80.2
+EL,Grecia,2030,Life expectancy at birth - males,80.3
+EL,Grecia,2035,Life expectancy at birth - males,81.1
+EL,Grecia,2040,Life expectancy at birth - males,81.9
+EL,Grecia,2045,Life expectancy at birth - males,82.6
+EL,Grecia,2050,Life expectancy at birth - males,83.3
+ES,Spagna,2026,Life expectancy at birth - males,81.7
+ES,Spagna,2027,Life expectancy at birth - males,81.8
+ES,Spagna,2028,Life expectancy at birth - males,82.0
+ES,Spagna,2029,Life expectancy at birth - males,82.1
+ES,Spagna,2030,Life expectancy at birth - males,82.2
+ES,Spagna,2035,Life expectancy at birth - males,82.9
+ES,Spagna,2040,Life expectancy at birth - males,83.5
+ES,Spagna,2045,Life expectancy at birth - males,84.1
+ES,Spagna,2050,Life expectancy at birth - males,84.7
+FI,Finlandia,2026,Life expectancy at birth - males,79.5
+FI,Finlandia,2027,Life expectancy at birth - males,79.6
+FI,Finlandia,2028,Life expectancy at birth - males,79.8
+FI,Finlandia,2029,Life expectancy at birth - males,80.0
+FI,Finlandia,2030,Life expectancy at birth - males,80.1
+FI,Finlandia,2035,Life expectancy at birth - males,80.9
+FI,Finlandia,2040,Life expectancy at birth - males,81.6
+FI,Finlandia,2045,Life expectancy at birth - males,82.3
+FI,Finlandia,2050,Life expectancy at birth - males,83.0
+FR,Francia,2026,Life expectancy at birth - males,80.6
+FR,Francia,2027,Life expectancy at birth - males,80.7
+FR,Francia,2028,Life expectancy at birth - males,80.9
+FR,Francia,2029,Life expectancy at birth - males,81.1
+FR,Francia,2030,Life expectancy at birth - males,81.2
+FR,Francia,2035,Life expectancy at birth - males,82.0
+FR,Francia,2040,Life expectancy at birth - males,82.7
+FR,Francia,2045,Life expectancy at birth - males,83.4
+FR,Francia,2050,Life expectancy at birth - males,84.0
+HR,Croazia,2026,Life expectancy at birth - males,76.1
+HR,Croazia,2027,Life expectancy at birth - males,76.3
+HR,Croazia,2028,Life expectancy at birth - males,76.5
+HR,Croazia,2029,Life expectancy at birth - males,76.7
+HR,Croazia,2030,Life expectancy at birth - males,76.9
+HR,Croazia,2035,Life expectancy at birth - males,77.9
+HR,Croazia,2040,Life expectancy at birth - males,78.9
+HR,Croazia,2045,Life expectancy at birth - males,79.8
+HR,Croazia,2050,Life expectancy at birth - males,80.7
+HU,Ungheria,2026,Life expectancy at birth - males,74.1
+HU,Ungheria,2027,Life expectancy at birth - males,74.4
+HU,Ungheria,2028,Life expectancy at birth - males,74.6
+HU,Ungheria,2029,Life expectancy at birth - males,74.8
+HU,Ungheria,2030,Life expectancy at birth - males,75.1
+HU,Ungheria,2035,Life expectancy at birth - males,76.2
+HU,Ungheria,2040,Life expectancy at birth - males,77.3
+HU,Ungheria,2045,Life expectancy at birth - males,78.4
+HU,Ungheria,2050,Life expectancy at birth - males,79.4
+IE,Irlanda,2026,Life expectancy at birth - males,81.5
+IE,Irlanda,2027,Life expectancy at birth - males,81.6
+IE,Irlanda,2028,Life expectancy at birth - males,81.8
+IE,Irlanda,2029,Life expectancy at birth - males,81.9
+IE,Irlanda,2030,Life expectancy at birth - males,82.0
+IE,Irlanda,2035,Life expectancy at birth - males,82.7
+IE,Irlanda,2040,Life expectancy at birth - males,83.3
+IE,Irlanda,2045,Life expectancy at birth - males,83.9
+IE,Irlanda,2050,Life expectancy at birth - males,84.5
+IS,Islanda,2026,Life expectancy at birth - males,81.1
+IS,Islanda,2027,Life expectancy at birth - males,81.3
+IS,Islanda,2028,Life expectancy at birth - males,81.4
+IS,Islanda,2029,Life expectancy at birth - males,81.5
+IS,Islanda,2030,Life expectancy at birth - males,81.7
+IS,Islanda,2035,Life expectancy at birth - males,82.3
+IS,Islanda,2040,Life expectancy at birth - males,82.9
+IS,Islanda,2045,Life expectancy at birth - males,83.5
+IS,Islanda,2050,Life expectancy at birth - males,84.1
+IT,Italia,2026,Life expectancy at birth - males,81.8
+IT,Italia,2027,Life expectancy at birth - males,81.9
+IT,Italia,2028,Life expectancy at birth - males,82.0
+IT,Italia,2029,Life expectancy at birth - males,82.2
+IT,Italia,2030,Life expectancy at birth - males,82.3
+IT,Italia,2035,Life expectancy at birth - males,82.9
+IT,Italia,2040,Life expectancy at birth - males,83.5
+IT,Italia,2045,Life expectancy at birth - males,84.1
+IT,Italia,2050,Life expectancy at birth - males,84.6
+LT,Lituania,2026,Life expectancy at birth - males,73.7
+LT,Lituania,2027,Life expectancy at birth - males,73.9
+LT,Lituania,2028,Life expectancy at birth - males,74.2
+LT,Lituania,2029,Life expectancy at birth - males,74.4
+LT,Lituania,2030,Life expectancy at birth - males,74.7
+LT,Lituania,2035,Life expectancy at birth - males,75.9
+LT,Lituania,2040,Life expectancy at birth - males,77.1
+LT,Lituania,2045,Life expectancy at birth - males,78.2
+LT,Lituania,2050,Life expectancy at birth - males,79.3
+LU,Lussemburgo,2026,Life expectancy at birth - males,82.1
+LU,Lussemburgo,2027,Life expectancy at birth - males,82.2
+LU,Lussemburgo,2028,Life expectancy at birth - males,82.4
+LU,Lussemburgo,2029,Life expectancy at birth - males,82.5
+LU,Lussemburgo,2030,Life expectancy at birth - males,82.6
+LU,Lussemburgo,2035,Life expectancy at birth - males,83.2
+LU,Lussemburgo,2040,Life expectancy at birth - males,83.8
+LU,Lussemburgo,2045,Life expectancy at birth - males,84.4
+LU,Lussemburgo,2050,Life expectancy at birth - males,85.0
+LV,Lettonia,2026,Life expectancy at birth - males,71.4
+LV,Lettonia,2027,Life expectancy at birth - males,71.6
+LV,Lettonia,2028,Life expectancy at birth - males,71.9
+LV,Lettonia,2029,Life expectancy at birth - males,72.2
+LV,Lettonia,2030,Life expectancy at birth - males,72.5
+LV,Lettonia,2035,Life expectancy at birth - males,73.9
+LV,Lettonia,2040,Life expectancy at birth - males,75.2
+LV,Lettonia,2045,Life expectancy at birth - males,76.5
+LV,Lettonia,2050,Life expectancy at birth - males,77.7
+MT,Malta,2026,Life expectancy at birth - males,82.0
+MT,Malta,2027,Life expectancy at birth - males,82.1
+MT,Malta,2028,Life expectancy at birth - males,82.2
+MT,Malta,2029,Life expectancy at birth - males,82.4
+MT,Malta,2030,Life expectancy at birth - males,82.5
+MT,Malta,2035,Life expectancy at birth - males,83.1
+MT,Malta,2040,Life expectancy at birth - males,83.7
+MT,Malta,2045,Life expectancy at birth - males,84.3
+MT,Malta,2050,Life expectancy at birth - males,84.8
+NL,Paesi Bassi,2026,Life expectancy at birth - males,80.8
+NL,Paesi Bassi,2027,Life expectancy at birth - males,81.0
+NL,Paesi Bassi,2028,Life expectancy at birth - males,81.1
+NL,Paesi Bassi,2029,Life expectancy at birth - males,81.2
+NL,Paesi Bassi,2030,Life expectancy at birth - males,81.4
+NL,Paesi Bassi,2035,Life expectancy at birth - males,82.0
+NL,Paesi Bassi,2040,Life expectancy at birth - males,82.7
+NL,Paesi Bassi,2045,Life expectancy at birth - males,83.3
+NL,Paesi Bassi,2050,Life expectancy at birth - males,83.9
+NO,Norvegia,2026,Life expectancy at birth - males,81.9
+NO,Norvegia,2027,Life expectancy at birth - males,82.0
+NO,Norvegia,2028,Life expectancy at birth - males,82.1
+NO,Norvegia,2029,Life expectancy at birth - males,82.3
+NO,Norvegia,2030,Life expectancy at birth - males,82.4
+NO,Norvegia,2035,Life expectancy at birth - males,83.0
+NO,Norvegia,2040,Life expectancy at birth - males,83.6
+NO,Norvegia,2045,Life expectancy at birth - males,84.1
+NO,Norvegia,2050,Life expectancy at birth - males,84.7
+PL,Polonia,2026,Life expectancy at birth - males,75.3
+PL,Polonia,2027,Life expectancy at birth - males,75.5
+PL,Polonia,2028,Life expectancy at birth - males,75.8
+PL,Polonia,2029,Life expectancy at birth - males,76.0
+PL,Polonia,2030,Life expectancy at birth - males,76.2
+PL,Polonia,2035,Life expectancy at birth - males,77.3
+PL,Polonia,2040,Life expectancy at birth - males,78.4
+PL,Polonia,2045,Life expectancy at birth - males,79.4
+PL,Polonia,2050,Life expectancy at birth - males,80.4
+PT,Portogallo,2026,Life expectancy at birth - males,80.0
+PT,Portogallo,2027,Life expectancy at birth - males,80.1
+PT,Portogallo,2028,Life expectancy at birth - males,80.3
+PT,Portogallo,2029,Life expectancy at birth - males,80.5
+PT,Portogallo,2030,Life expectancy at birth - males,80.6
+PT,Portogallo,2035,Life expectancy at birth - males,81.4
+PT,Portogallo,2040,Life expectancy at birth - males,82.1
+PT,Portogallo,2045,Life expectancy at birth - males,82.8
+PT,Portogallo,2050,Life expectancy at birth - males,83.5
+RO,Romania,2026,Life expectancy at birth - males,73.4
+RO,Romania,2027,Life expectancy at birth - males,73.7
+RO,Romania,2028,Life expectancy at birth - males,73.9
+RO,Romania,2029,Life expectancy at birth - males,74.2
+RO,Romania,2030,Life expectancy at birth - males,74.4
+RO,Romania,2035,Life expectancy at birth - males,75.7
+RO,Romania,2040,Life expectancy at birth - males,76.9
+RO,Romania,2045,Life expectancy at birth - males,78.0
+RO,Romania,2050,Life expectancy at birth - males,79.1
+SE,Svezia,2026,Life expectancy at birth - males,82.1
+SE,Svezia,2027,Life expectancy at birth - males,82.2
+SE,Svezia,2028,Life expectancy at birth - males,82.3
+SE,Svezia,2029,Life expectancy at birth - males,82.4
+SE,Svezia,2030,Life expectancy at birth - males,82.6
+SE,Svezia,2035,Life expectancy at birth - males,83.2
+SE,Svezia,2040,Life expectancy at birth - males,83.7
+SE,Svezia,2045,Life expectancy at birth - males,84.3
+SE,Svezia,2050,Life expectancy at birth - males,84.8
+SI,Slovenia,2026,Life expectancy at birth - males,79.6
+SI,Slovenia,2027,Life expectancy at birth - males,79.7
+SI,Slovenia,2028,Life expectancy at birth - males,79.9
+SI,Slovenia,2029,Life expectancy at birth - males,80.1
+SI,Slovenia,2030,Life expectancy at birth - males,80.2
+SI,Slovenia,2035,Life expectancy at birth - males,81.0
+SI,Slovenia,2040,Life expectancy at birth - males,81.7
+SI,Slovenia,2045,Life expectancy at birth - males,82.4
+SI,Slovenia,2050,Life expectancy at birth - males,83.1
+SK,Slovacchia,2026,Life expectancy at birth - males,75.6
+SK,Slovacchia,2027,Life expectancy at birth - males,75.8
+SK,Slovacchia,2028,Life expectancy at birth - males,76.0
+SK,Slovacchia,2029,Life expectancy at birth - males,76.2
+SK,Slovacchia,2030,Life expectancy at birth - males,76.5
+SK,Slovacchia,2035,Life expectancy at birth - males,77.5
+SK,Slovacchia,2040,Life expectancy at birth - males,78.6
+SK,Slovacchia,2045,Life expectancy at birth - males,79.6
+SK,Slovacchia,2050,Life expectancy at birth - males,80.5
+AT,Austria,2026,Proportion of population aged 15-74 years,75.9
+AT,Austria,2027,Proportion of population aged 15-74 years,75.9
+AT,Austria,2028,Proportion of population aged 15-74 years,75.9
+AT,Austria,2029,Proportion of population aged 15-74 years,75.9
+AT,Austria,2030,Proportion of population aged 15-74 years,75.9
+AT,Austria,2035,Proportion of population aged 15-74 years,75.6
+AT,Austria,2040,Proportion of population aged 15-74 years,74.2
+AT,Austria,2045,Proportion of population aged 15-74 years,72.5
+AT,Austria,2050,Proportion of population aged 15-74 years,71.8
+BE,Belgio,2026,Proportion of population aged 15-74 years,74.3
+BE,Belgio,2027,Proportion of population aged 15-74 years,74.3
+BE,Belgio,2028,Proportion of population aged 15-74 years,74.3
+BE,Belgio,2029,Proportion of population aged 15-74 years,74.3
+BE,Belgio,2030,Proportion of population aged 15-74 years,74.3
+BE,Belgio,2035,Proportion of population aged 15-74 years,73.6
+BE,Belgio,2040,Proportion of population aged 15-74 years,72.4
+BE,Belgio,2045,Proportion of population aged 15-74 years,71.4
+BE,Belgio,2050,Proportion of population aged 15-74 years,70.8
+BG,Bulgaria,2026,Proportion of population aged 15-74 years,75.0
+BG,Bulgaria,2027,Proportion of population aged 15-74 years,74.7
+BG,Bulgaria,2028,Proportion of population aged 15-74 years,74.5
+BG,Bulgaria,2029,Proportion of population aged 15-74 years,74.2
+BG,Bulgaria,2030,Proportion of population aged 15-74 years,73.9
+BG,Bulgaria,2035,Proportion of population aged 15-74 years,72.9
+BG,Bulgaria,2040,Proportion of population aged 15-74 years,72.0
+BG,Bulgaria,2045,Proportion of population aged 15-74 years,71.1
+BG,Bulgaria,2050,Proportion of population aged 15-74 years,69.7
+CY,Cipro,2026,Proportion of population aged 15-74 years,76.5
+CY,Cipro,2027,Proportion of population aged 15-74 years,76.3
+CY,Cipro,2028,Proportion of population aged 15-74 years,76.2
+CY,Cipro,2029,Proportion of population aged 15-74 years,76.1
+CY,Cipro,2030,Proportion of population aged 15-74 years,75.9
+CY,Cipro,2035,Proportion of population aged 15-74 years,75.1
+CY,Cipro,2040,Proportion of population aged 15-74 years,74.8
+CY,Cipro,2045,Proportion of population aged 15-74 years,74.2
+CY,Cipro,2050,Proportion of population aged 15-74 years,73.2
+CZ,Cechia,2026,Proportion of population aged 15-74 years,75.0
+CZ,Cechia,2027,Proportion of population aged 15-74 years,74.8
+CZ,Cechia,2028,Proportion of population aged 15-74 years,74.7
+CZ,Cechia,2029,Proportion of population aged 15-74 years,74.6
+CZ,Cechia,2030,Proportion of population aged 15-74 years,74.6
+CZ,Cechia,2035,Proportion of population aged 15-74 years,75.0
+CZ,Cechia,2040,Proportion of population aged 15-74 years,75.0
+CZ,Cechia,2045,Proportion of population aged 15-74 years,74.1
+CZ,Cechia,2050,Proportion of population aged 15-74 years,72.1
+DE,Germania,2026,Proportion of population aged 15-74 years,74.9
+DE,Germania,2027,Proportion of population aged 15-74 years,74.8
+DE,Germania,2028,Proportion of population aged 15-74 years,74.7
+DE,Germania,2029,Proportion of population aged 15-74 years,74.6
+DE,Germania,2030,Proportion of population aged 15-74 years,74.6
+DE,Germania,2035,Proportion of population aged 15-74 years,74.1
+DE,Germania,2040,Proportion of population aged 15-74 years,72.6
+DE,Germania,2045,Proportion of population aged 15-74 years,71.1
+DE,Germania,2050,Proportion of population aged 15-74 years,71.0
+DK,Danimarca,2026,Proportion of population aged 15-74 years,73.9
+DK,Danimarca,2027,Proportion of population aged 15-74 years,73.8
+DK,Danimarca,2028,Proportion of population aged 15-74 years,73.6
+DK,Danimarca,2029,Proportion of population aged 15-74 years,73.4
+DK,Danimarca,2030,Proportion of population aged 15-74 years,73.3
+DK,Danimarca,2035,Proportion of population aged 15-74 years,72.9
+DK,Danimarca,2040,Proportion of population aged 15-74 years,72.2
+DK,Danimarca,2045,Proportion of population aged 15-74 years,71.4
+DK,Danimarca,2050,Proportion of population aged 15-74 years,70.9
+EE,Estonia,2026,Proportion of population aged 15-74 years,74.9
+EE,Estonia,2027,Proportion of population aged 15-74 years,75.0
+EE,Estonia,2028,Proportion of population aged 15-74 years,75.0
+EE,Estonia,2029,Proportion of population aged 15-74 years,75.1
+EE,Estonia,2030,Proportion of population aged 15-74 years,75.1
+EE,Estonia,2035,Proportion of population aged 15-74 years,75.3
+EE,Estonia,2040,Proportion of population aged 15-74 years,74.6
+EE,Estonia,2045,Proportion of population aged 15-74 years,73.6
+EE,Estonia,2050,Proportion of population aged 15-74 years,72.3
+EL,Grecia,2026,Proportion of population aged 15-74 years,75.5
+EL,Grecia,2027,Proportion of population aged 15-74 years,75.5
+EL,Grecia,2028,Proportion of population aged 15-74 years,75.5
+EL,Grecia,2029,Proportion of population aged 15-74 years,75.5
+EL,Grecia,2030,Proportion of population aged 15-74 years,75.4
+EL,Grecia,2035,Proportion of population aged 15-74 years,74.4
+EL,Grecia,2040,Proportion of population aged 15-74 years,73.0
+EL,Grecia,2045,Proportion of population aged 15-74 years,70.7
+EL,Grecia,2050,Proportion of population aged 15-74 years,68.8
+ES,Spagna,2026,Proportion of population aged 15-74 years,77.0
+ES,Spagna,2027,Proportion of population aged 15-74 years,77.1
+ES,Spagna,2028,Proportion of population aged 15-74 years,77.2
+ES,Spagna,2029,Proportion of population aged 15-74 years,77.2
+ES,Spagna,2030,Proportion of population aged 15-74 years,77.3
+ES,Spagna,2035,Proportion of population aged 15-74 years,76.5
+ES,Spagna,2040,Proportion of population aged 15-74 years,74.6
+ES,Spagna,2045,Proportion of population aged 15-74 years,72.4
+ES,Spagna,2050,Proportion of population aged 15-74 years,70.4
+FI,Finlandia,2026,Proportion of population aged 15-74 years,73.8
+FI,Finlandia,2027,Proportion of population aged 15-74 years,73.8
+FI,Finlandia,2028,Proportion of population aged 15-74 years,73.8
+FI,Finlandia,2029,Proportion of population aged 15-74 years,73.8
+FI,Finlandia,2030,Proportion of population aged 15-74 years,73.8
+FI,Finlandia,2035,Proportion of population aged 15-74 years,73.5
+FI,Finlandia,2040,Proportion of population aged 15-74 years,72.9
+FI,Finlandia,2045,Proportion of population aged 15-74 years,72.6
+FI,Finlandia,2050,Proportion of population aged 15-74 years,72.8
+FR,Francia,2026,Proportion of population aged 15-74 years,72.5
+FR,Francia,2027,Proportion of population aged 15-74 years,72.5
+FR,Francia,2028,Proportion of population aged 15-74 years,72.4
+FR,Francia,2029,Proportion of population aged 15-74 years,72.3
+FR,Francia,2030,Proportion of population aged 15-74 years,72.3
+FR,Francia,2035,Proportion of population aged 15-74 years,71.6
+FR,Francia,2040,Proportion of population aged 15-74 years,70.4
+FR,Francia,2045,Proportion of population aged 15-74 years,69.4
+FR,Francia,2050,Proportion of population aged 15-74 years,68.7
+HR,Croazia,2026,Proportion of population aged 15-74 years,76.2
+HR,Croazia,2027,Proportion of population aged 15-74 years,76.1
+HR,Croazia,2028,Proportion of population aged 15-74 years,75.9
+HR,Croazia,2029,Proportion of population aged 15-74 years,75.6
+HR,Croazia,2030,Proportion of population aged 15-74 years,75.4
+HR,Croazia,2035,Proportion of population aged 15-74 years,74.0
+HR,Croazia,2040,Proportion of population aged 15-74 years,73.2
+HR,Croazia,2045,Proportion of population aged 15-74 years,72.6
+HR,Croazia,2050,Proportion of population aged 15-74 years,72.3
+HU,Ungheria,2026,Proportion of population aged 15-74 years,76.5
+HU,Ungheria,2027,Proportion of population aged 15-74 years,76.2
+HU,Ungheria,2028,Proportion of population aged 15-74 years,76.0
+HU,Ungheria,2029,Proportion of population aged 15-74 years,75.6
+HU,Ungheria,2030,Proportion of population aged 15-74 years,75.2
+HU,Ungheria,2035,Proportion of population aged 15-74 years,74.7
+HU,Ungheria,2040,Proportion of population aged 15-74 years,75.0
+HU,Ungheria,2045,Proportion of population aged 15-74 years,74.3
+HU,Ungheria,2050,Proportion of population aged 15-74 years,72.8
+IE,Irlanda,2026,Proportion of population aged 15-74 years,74.8
+IE,Irlanda,2027,Proportion of population aged 15-74 years,75.1
+IE,Irlanda,2028,Proportion of population aged 15-74 years,75.3
+IE,Irlanda,2029,Proportion of population aged 15-74 years,75.5
+IE,Irlanda,2030,Proportion of population aged 15-74 years,75.6
+IE,Irlanda,2035,Proportion of population aged 15-74 years,75.7
+IE,Irlanda,2040,Proportion of population aged 15-74 years,74.7
+IE,Irlanda,2045,Proportion of population aged 15-74 years,73.3
+IE,Irlanda,2050,Proportion of population aged 15-74 years,71.8
+IS,Islanda,2026,Proportion of population aged 15-74 years,75.7
+IS,Islanda,2027,Proportion of population aged 15-74 years,75.9
+IS,Islanda,2028,Proportion of population aged 15-74 years,76.0
+IS,Islanda,2029,Proportion of population aged 15-74 years,76.0
+IS,Islanda,2030,Proportion of population aged 15-74 years,76.0
+IS,Islanda,2035,Proportion of population aged 15-74 years,75.5
+IS,Islanda,2040,Proportion of population aged 15-74 years,75.1
+IS,Islanda,2045,Proportion of population aged 15-74 years,74.8
+IS,Islanda,2050,Proportion of population aged 15-74 years,74.7
+IT,Italia,2026,Proportion of population aged 15-74 years,75.3
+IT,Italia,2027,Proportion of population aged 15-74 years,75.4
+IT,Italia,2028,Proportion of population aged 15-74 years,75.4
+IT,Italia,2029,Proportion of population aged 15-74 years,75.5
+IT,Italia,2030,Proportion of population aged 15-74 years,75.4
+IT,Italia,2035,Proportion of population aged 15-74 years,74.7
+IT,Italia,2040,Proportion of population aged 15-74 years,72.7
+IT,Italia,2045,Proportion of population aged 15-74 years,70.2
+IT,Italia,2050,Proportion of population aged 15-74 years,68.3
+LT,Lituania,2026,Proportion of population aged 15-74 years,76.6
+LT,Lituania,2027,Proportion of population aged 15-74 years,76.8
+LT,Lituania,2028,Proportion of population aged 15-74 years,76.9
+LT,Lituania,2029,Proportion of population aged 15-74 years,77.1
+LT,Lituania,2030,Proportion of population aged 15-74 years,77.2
+LT,Lituania,2035,Proportion of population aged 15-74 years,77.1
+LT,Lituania,2040,Proportion of population aged 15-74 years,75.8
+LT,Lituania,2045,Proportion of population aged 15-74 years,74.6
+LT,Lituania,2050,Proportion of population aged 15-74 years,73.6
+LU,Lussemburgo,2026,Proportion of population aged 15-74 years,77.7
+LU,Lussemburgo,2027,Proportion of population aged 15-74 years,77.7
+LU,Lussemburgo,2028,Proportion of population aged 15-74 years,77.8
+LU,Lussemburgo,2029,Proportion of population aged 15-74 years,77.8
+LU,Lussemburgo,2030,Proportion of population aged 15-74 years,77.8
+LU,Lussemburgo,2035,Proportion of population aged 15-74 years,77.7
+LU,Lussemburgo,2040,Proportion of population aged 15-74 years,76.9
+LU,Lussemburgo,2045,Proportion of population aged 15-74 years,75.7
+LU,Lussemburgo,2050,Proportion of population aged 15-74 years,74.8
+LV,Lettonia,2026,Proportion of population aged 15-74 years,74.5
+LV,Lettonia,2027,Proportion of population aged 15-74 years,74.5
+LV,Lettonia,2028,Proportion of population aged 15-74 years,74.6
+LV,Lettonia,2029,Proportion of population aged 15-74 years,74.7
+LV,Lettonia,2030,Proportion of population aged 15-74 years,74.9
+LV,Lettonia,2035,Proportion of population aged 15-74 years,75.2
+LV,Lettonia,2040,Proportion of population aged 15-74 years,74.0
+LV,Lettonia,2045,Proportion of population aged 15-74 years,72.5
+LV,Lettonia,2050,Proportion of population aged 15-74 years,71.0
+MT,Malta,2026,Proportion of population aged 15-74 years,79.5
+MT,Malta,2027,Proportion of population aged 15-74 years,79.6
+MT,Malta,2028,Proportion of population aged 15-74 years,79.7
+MT,Malta,2029,Proportion of population aged 15-74 years,79.7
+MT,Malta,2030,Proportion of population aged 15-74 years,79.7
+MT,Malta,2035,Proportion of population aged 15-74 years,79.6
+MT,Malta,2040,Proportion of population aged 15-74 years,79.8
+MT,Malta,2045,Proportion of population aged 15-74 years,80.3
+MT,Malta,2050,Proportion of population aged 15-74 years,80.1
+NL,Paesi Bassi,2026,Proportion of population aged 15-74 years,75.2
+NL,Paesi Bassi,2027,Proportion of population aged 15-74 years,75.1
+NL,Paesi Bassi,2028,Proportion of population aged 15-74 years,74.9
+NL,Paesi Bassi,2029,Proportion of population aged 15-74 years,74.8
+NL,Paesi Bassi,2030,Proportion of population aged 15-74 years,74.6
+NL,Paesi Bassi,2035,Proportion of population aged 15-74 years,73.6
+NL,Paesi Bassi,2040,Proportion of population aged 15-74 years,72.4
+NL,Paesi Bassi,2045,Proportion of population aged 15-74 years,71.4
+NL,Paesi Bassi,2050,Proportion of population aged 15-74 years,71.2
+NO,Norvegia,2026,Proportion of population aged 15-74 years,74.9
+NO,Norvegia,2027,Proportion of population aged 15-74 years,74.9
+NO,Norvegia,2028,Proportion of population aged 15-74 years,74.9
+NO,Norvegia,2029,Proportion of population aged 15-74 years,74.9
+NO,Norvegia,2030,Proportion of population aged 15-74 years,74.8
+NO,Norvegia,2035,Proportion of population aged 15-74 years,74.4
+NO,Norvegia,2040,Proportion of population aged 15-74 years,73.7
+NO,Norvegia,2045,Proportion of population aged 15-74 years,72.7
+NO,Norvegia,2050,Proportion of population aged 15-74 years,71.8
+PL,Polonia,2026,Proportion of population aged 15-74 years,76.5
+PL,Polonia,2027,Proportion of population aged 15-74 years,76.4
+PL,Polonia,2028,Proportion of population aged 15-74 years,76.4
+PL,Polonia,2029,Proportion of population aged 15-74 years,76.2
+PL,Polonia,2030,Proportion of population aged 15-74 years,76.1
+PL,Polonia,2035,Proportion of population aged 15-74 years,75.9
+PL,Polonia,2040,Proportion of population aged 15-74 years,75.6
+PL,Polonia,2045,Proportion of population aged 15-74 years,75.1
+PL,Polonia,2050,Proportion of population aged 15-74 years,73.8
+PT,Portogallo,2026,Proportion of population aged 15-74 years,75.1
+PT,Portogallo,2027,Proportion of population aged 15-74 years,74.9
+PT,Portogallo,2028,Proportion of population aged 15-74 years,74.6
+PT,Portogallo,2029,Proportion of population aged 15-74 years,74.3
+PT,Portogallo,2030,Proportion of population aged 15-74 years,74.0
+PT,Portogallo,2035,Proportion of population aged 15-74 years,72.5
+PT,Portogallo,2040,Proportion of population aged 15-74 years,70.8
+PT,Portogallo,2045,Proportion of population aged 15-74 years,69.5
+PT,Portogallo,2050,Proportion of population aged 15-74 years,68.3
+RO,Romania,2026,Proportion of population aged 15-74 years,76.1
+RO,Romania,2027,Proportion of population aged 15-74 years,76.0
+RO,Romania,2028,Proportion of population aged 15-74 years,75.9
+RO,Romania,2029,Proportion of population aged 15-74 years,75.8
+RO,Romania,2030,Proportion of population aged 15-74 years,75.6
+RO,Romania,2035,Proportion of population aged 15-74 years,75.1
+RO,Romania,2040,Proportion of population aged 15-74 years,75.1
+RO,Romania,2045,Proportion of population aged 15-74 years,73.2
+RO,Romania,2050,Proportion of population aged 15-74 years,71.7
+SE,Svezia,2026,Proportion of population aged 15-74 years,72.4
+SE,Svezia,2027,Proportion of population aged 15-74 years,72.5
+SE,Svezia,2028,Proportion of population aged 15-74 years,72.6
+SE,Svezia,2029,Proportion of population aged 15-74 years,72.7
+SE,Svezia,2030,Proportion of population aged 15-74 years,72.8
+SE,Svezia,2035,Proportion of population aged 15-74 years,73.4
+SE,Svezia,2040,Proportion of population aged 15-74 years,73.2
+SE,Svezia,2045,Proportion of population aged 15-74 years,72.2
+SE,Svezia,2050,Proportion of population aged 15-74 years,71.3
+SI,Slovenia,2026,Proportion of population aged 15-74 years,75.5
+SI,Slovenia,2027,Proportion of population aged 15-74 years,75.5
+SI,Slovenia,2028,Proportion of population aged 15-74 years,75.4
+SI,Slovenia,2029,Proportion of population aged 15-74 years,75.2
+SI,Slovenia,2030,Proportion of population aged 15-74 years,75.1
+SI,Slovenia,2035,Proportion of population aged 15-74 years,74.4
+SI,Slovenia,2040,Proportion of population aged 15-74 years,73.2
+SI,Slovenia,2045,Proportion of population aged 15-74 years,71.9
+SI,Slovenia,2050,Proportion of population aged 15-74 years,70.8
+SK,Slovacchia,2026,Proportion of population aged 15-74 years,76.8
+SK,Slovacchia,2027,Proportion of population aged 15-74 years,76.6
+SK,Slovacchia,2028,Proportion of population aged 15-74 years,76.4
+SK,Slovacchia,2029,Proportion of population aged 15-74 years,76.2
+SK,Slovacchia,2030,Proportion of population aged 15-74 years,76.0
+SK,Slovacchia,2035,Proportion of population aged 15-74 years,75.5
+SK,Slovacchia,2040,Proportion of population aged 15-74 years,75.0
+SK,Slovacchia,2045,Proportion of population aged 15-74 years,74.1
+SK,Slovacchia,2050,Proportion of population aged 15-74 years,72.4
+AT,Austria,2026,Proportion of population aged 15-74 years,75.9
+AT,Austria,2027,Proportion of population aged 15-74 years,75.8
+AT,Austria,2028,Proportion of population aged 15-74 years,75.8
+AT,Austria,2029,Proportion of population aged 15-74 years,75.7
+AT,Austria,2030,Proportion of population aged 15-74 years,75.7
+AT,Austria,2035,Proportion of population aged 15-74 years,75.1
+AT,Austria,2040,Proportion of population aged 15-74 years,73.5
+AT,Austria,2045,Proportion of population aged 15-74 years,71.5
+AT,Austria,2050,Proportion of population aged 15-74 years,70.2
+BE,Belgio,2026,Proportion of population aged 15-74 years,74.3
+BE,Belgio,2027,Proportion of population aged 15-74 years,74.3
+BE,Belgio,2028,Proportion of population aged 15-74 years,74.3
+BE,Belgio,2029,Proportion of population aged 15-74 years,74.3
+BE,Belgio,2030,Proportion of population aged 15-74 years,74.2
+BE,Belgio,2035,Proportion of population aged 15-74 years,73.5
+BE,Belgio,2040,Proportion of population aged 15-74 years,72.2
+BE,Belgio,2045,Proportion of population aged 15-74 years,71.0
+BE,Belgio,2050,Proportion of population aged 15-74 years,70.0
+BG,Bulgaria,2026,Proportion of population aged 15-74 years,75.0
+BG,Bulgaria,2027,Proportion of population aged 15-74 years,74.7
+BG,Bulgaria,2028,Proportion of population aged 15-74 years,74.4
+BG,Bulgaria,2029,Proportion of population aged 15-74 years,74.1
+BG,Bulgaria,2030,Proportion of population aged 15-74 years,73.9
+BG,Bulgaria,2035,Proportion of population aged 15-74 years,72.8
+BG,Bulgaria,2040,Proportion of population aged 15-74 years,71.9
+BG,Bulgaria,2045,Proportion of population aged 15-74 years,70.9
+BG,Bulgaria,2050,Proportion of population aged 15-74 years,69.4
+CY,Cipro,2026,Proportion of population aged 15-74 years,76.4
+CY,Cipro,2027,Proportion of population aged 15-74 years,76.2
+CY,Cipro,2028,Proportion of population aged 15-74 years,76.0
+CY,Cipro,2029,Proportion of population aged 15-74 years,75.8
+CY,Cipro,2030,Proportion of population aged 15-74 years,75.6
+CY,Cipro,2035,Proportion of population aged 15-74 years,74.7
+CY,Cipro,2040,Proportion of population aged 15-74 years,74.4
+CY,Cipro,2045,Proportion of population aged 15-74 years,74.1
+CY,Cipro,2050,Proportion of population aged 15-74 years,73.0
+CZ,Cechia,2026,Proportion of population aged 15-74 years,74.9
+CZ,Cechia,2027,Proportion of population aged 15-74 years,74.8
+CZ,Cechia,2028,Proportion of population aged 15-74 years,74.7
+CZ,Cechia,2029,Proportion of population aged 15-74 years,74.6
+CZ,Cechia,2030,Proportion of population aged 15-74 years,74.5
+CZ,Cechia,2035,Proportion of population aged 15-74 years,75.0
+CZ,Cechia,2040,Proportion of population aged 15-74 years,74.9
+CZ,Cechia,2045,Proportion of population aged 15-74 years,73.7
+CZ,Cechia,2050,Proportion of population aged 15-74 years,71.1
+DE,Germania,2026,Proportion of population aged 15-74 years,74.9
+DE,Germania,2027,Proportion of population aged 15-74 years,74.8
+DE,Germania,2028,Proportion of population aged 15-74 years,74.7
+DE,Germania,2029,Proportion of population aged 15-74 years,74.6
+DE,Germania,2030,Proportion of population aged 15-74 years,74.5
+DE,Germania,2035,Proportion of population aged 15-74 years,73.9
+DE,Germania,2040,Proportion of population aged 15-74 years,72.2
+DE,Germania,2045,Proportion of population aged 15-74 years,70.2
+DE,Germania,2050,Proportion of population aged 15-74 years,69.7
+DK,Danimarca,2026,Proportion of population aged 15-74 years,73.9
+DK,Danimarca,2027,Proportion of population aged 15-74 years,73.8
+DK,Danimarca,2028,Proportion of population aged 15-74 years,73.6
+DK,Danimarca,2029,Proportion of population aged 15-74 years,73.4
+DK,Danimarca,2030,Proportion of population aged 15-74 years,73.2
+DK,Danimarca,2035,Proportion of population aged 15-74 years,72.7
+DK,Danimarca,2040,Proportion of population aged 15-74 years,71.9
+DK,Danimarca,2045,Proportion of population aged 15-74 years,70.9
+DK,Danimarca,2050,Proportion of population aged 15-74 years,70.3
+EE,Estonia,2026,Proportion of population aged 15-74 years,74.8
+EE,Estonia,2027,Proportion of population aged 15-74 years,74.9
+EE,Estonia,2028,Proportion of population aged 15-74 years,74.9
+EE,Estonia,2029,Proportion of population aged 15-74 years,75.0
+EE,Estonia,2030,Proportion of population aged 15-74 years,75.0
+EE,Estonia,2035,Proportion of population aged 15-74 years,75.1
+EE,Estonia,2040,Proportion of population aged 15-74 years,74.3
+EE,Estonia,2045,Proportion of population aged 15-74 years,73.0
+EE,Estonia,2050,Proportion of population aged 15-74 years,71.4
+EL,Grecia,2026,Proportion of population aged 15-74 years,75.5
+EL,Grecia,2027,Proportion of population aged 15-74 years,75.5
+EL,Grecia,2028,Proportion of population aged 15-74 years,75.6
+EL,Grecia,2029,Proportion of population aged 15-74 years,75.6
+EL,Grecia,2030,Proportion of population aged 15-74 years,75.5
+EL,Grecia,2035,Proportion of population aged 15-74 years,74.7
+EL,Grecia,2040,Proportion of population aged 15-74 years,73.2
+EL,Grecia,2045,Proportion of population aged 15-74 years,70.8
+EL,Grecia,2050,Proportion of population aged 15-74 years,68.6
+ES,Spagna,2026,Proportion of population aged 15-74 years,77.0
+ES,Spagna,2027,Proportion of population aged 15-74 years,77.1
+ES,Spagna,2028,Proportion of population aged 15-74 years,77.1
+ES,Spagna,2029,Proportion of population aged 15-74 years,77.1
+ES,Spagna,2030,Proportion of population aged 15-74 years,77.2
+ES,Spagna,2035,Proportion of population aged 15-74 years,76.3
+ES,Spagna,2040,Proportion of population aged 15-74 years,74.1
+ES,Spagna,2045,Proportion of population aged 15-74 years,71.5
+ES,Spagna,2050,Proportion of population aged 15-74 years,68.6
+FI,Finlandia,2026,Proportion of population aged 15-74 years,73.8
+FI,Finlandia,2027,Proportion of population aged 15-74 years,73.8
+FI,Finlandia,2028,Proportion of population aged 15-74 years,73.7
+FI,Finlandia,2029,Proportion of population aged 15-74 years,73.7
+FI,Finlandia,2030,Proportion of population aged 15-74 years,73.7
+FI,Finlandia,2035,Proportion of population aged 15-74 years,73.2
+FI,Finlandia,2040,Proportion of population aged 15-74 years,72.5
+FI,Finlandia,2045,Proportion of population aged 15-74 years,71.8
+FI,Finlandia,2050,Proportion of population aged 15-74 years,71.7
+FR,Francia,2026,Proportion of population aged 15-74 years,72.6
+FR,Francia,2027,Proportion of population aged 15-74 years,72.5
+FR,Francia,2028,Proportion of population aged 15-74 years,72.4
+FR,Francia,2029,Proportion of population aged 15-74 years,72.4
+FR,Francia,2030,Proportion of population aged 15-74 years,72.3
+FR,Francia,2035,Proportion of population aged 15-74 years,71.6
+FR,Francia,2040,Proportion of population aged 15-74 years,70.2
+FR,Francia,2045,Proportion of population aged 15-74 years,68.9
+FR,Francia,2050,Proportion of population aged 15-74 years,68.0
+HR,Croazia,2026,Proportion of population aged 15-74 years,76.1
+HR,Croazia,2027,Proportion of population aged 15-74 years,75.9
+HR,Croazia,2028,Proportion of population aged 15-74 years,75.6
+HR,Croazia,2029,Proportion of population aged 15-74 years,75.3
+HR,Croazia,2030,Proportion of population aged 15-74 years,75.0
+HR,Croazia,2035,Proportion of population aged 15-74 years,73.5
+HR,Croazia,2040,Proportion of population aged 15-74 years,72.6
+HR,Croazia,2045,Proportion of population aged 15-74 years,71.8
+HR,Croazia,2050,Proportion of population aged 15-74 years,71.3
+HU,Ungheria,2026,Proportion of population aged 15-74 years,76.5
+HU,Ungheria,2027,Proportion of population aged 15-74 years,76.2
+HU,Ungheria,2028,Proportion of population aged 15-74 years,75.9
+HU,Ungheria,2029,Proportion of population aged 15-74 years,75.6
+HU,Ungheria,2030,Proportion of population aged 15-74 years,75.2
+HU,Ungheria,2035,Proportion of population aged 15-74 years,74.5
+HU,Ungheria,2040,Proportion of population aged 15-74 years,74.7
+HU,Ungheria,2045,Proportion of population aged 15-74 years,73.9
+HU,Ungheria,2050,Proportion of population aged 15-74 years,72.2
+IE,Irlanda,2026,Proportion of population aged 15-74 years,74.8
+IE,Irlanda,2027,Proportion of population aged 15-74 years,75.1
+IE,Irlanda,2028,Proportion of population aged 15-74 years,75.2
+IE,Irlanda,2029,Proportion of population aged 15-74 years,75.4
+IE,Irlanda,2030,Proportion of population aged 15-74 years,75.5
+IE,Irlanda,2035,Proportion of population aged 15-74 years,75.6
+IE,Irlanda,2040,Proportion of population aged 15-74 years,74.6
+IE,Irlanda,2045,Proportion of population aged 15-74 years,72.9
+IE,Irlanda,2050,Proportion of population aged 15-74 years,70.9
+IS,Islanda,2026,Proportion of population aged 15-74 years,75.5
+IS,Islanda,2027,Proportion of population aged 15-74 years,75.5
+IS,Islanda,2028,Proportion of population aged 15-74 years,75.4
+IS,Islanda,2029,Proportion of population aged 15-74 years,75.3
+IS,Islanda,2030,Proportion of population aged 15-74 years,75.2
+IS,Islanda,2035,Proportion of population aged 15-74 years,74.3
+IS,Islanda,2040,Proportion of population aged 15-74 years,73.7
+IS,Islanda,2045,Proportion of population aged 15-74 years,73.2
+IS,Islanda,2050,Proportion of population aged 15-74 years,72.6
+IT,Italia,2026,Proportion of population aged 15-74 years,75.3
+IT,Italia,2027,Proportion of population aged 15-74 years,75.3
+IT,Italia,2028,Proportion of population aged 15-74 years,75.3
+IT,Italia,2029,Proportion of population aged 15-74 years,75.3
+IT,Italia,2030,Proportion of population aged 15-74 years,75.3
+IT,Italia,2035,Proportion of population aged 15-74 years,74.4
+IT,Italia,2040,Proportion of population aged 15-74 years,72.1
+IT,Italia,2045,Proportion of population aged 15-74 years,69.1
+IT,Italia,2050,Proportion of population aged 15-74 years,66.5
+LT,Lituania,2026,Proportion of population aged 15-74 years,76.5
+LT,Lituania,2027,Proportion of population aged 15-74 years,76.6
+LT,Lituania,2028,Proportion of population aged 15-74 years,76.7
+LT,Lituania,2029,Proportion of population aged 15-74 years,76.8
+LT,Lituania,2030,Proportion of population aged 15-74 years,76.9
+LT,Lituania,2035,Proportion of population aged 15-74 years,76.6
+LT,Lituania,2040,Proportion of population aged 15-74 years,74.9
+LT,Lituania,2045,Proportion of population aged 15-74 years,73.1
+LT,Lituania,2050,Proportion of population aged 15-74 years,71.4
+LU,Lussemburgo,2026,Proportion of population aged 15-74 years,77.6
+LU,Lussemburgo,2027,Proportion of population aged 15-74 years,77.5
+LU,Lussemburgo,2028,Proportion of population aged 15-74 years,77.5
+LU,Lussemburgo,2029,Proportion of population aged 15-74 years,77.4
+LU,Lussemburgo,2030,Proportion of population aged 15-74 years,77.4
+LU,Lussemburgo,2035,Proportion of population aged 15-74 years,77.1
+LU,Lussemburgo,2040,Proportion of population aged 15-74 years,76.1
+LU,Lussemburgo,2045,Proportion of population aged 15-74 years,74.6
+LU,Lussemburgo,2050,Proportion of population aged 15-74 years,73.1
+LV,Lettonia,2026,Proportion of population aged 15-74 years,74.5
+LV,Lettonia,2027,Proportion of population aged 15-74 years,74.5
+LV,Lettonia,2028,Proportion of population aged 15-74 years,74.6
+LV,Lettonia,2029,Proportion of population aged 15-74 years,74.8
+LV,Lettonia,2030,Proportion of population aged 15-74 years,75.0
+LV,Lettonia,2035,Proportion of population aged 15-74 years,75.5
+LV,Lettonia,2040,Proportion of population aged 15-74 years,74.4
+LV,Lettonia,2045,Proportion of population aged 15-74 years,73.0
+LV,Lettonia,2050,Proportion of population aged 15-74 years,71.4
+MT,Malta,2026,Proportion of population aged 15-74 years,79.0
+MT,Malta,2027,Proportion of population aged 15-74 years,78.7
+MT,Malta,2028,Proportion of population aged 15-74 years,78.5
+MT,Malta,2029,Proportion of population aged 15-74 years,78.3
+MT,Malta,2030,Proportion of population aged 15-74 years,78.0
+MT,Malta,2035,Proportion of population aged 15-74 years,77.3
+MT,Malta,2040,Proportion of population aged 15-74 years,77.2
+MT,Malta,2045,Proportion of population aged 15-74 years,77.9
+MT,Malta,2050,Proportion of population aged 15-74 years,77.2
+NL,Paesi Bassi,2026,Proportion of population aged 15-74 years,75.1
+NL,Paesi Bassi,2027,Proportion of population aged 15-74 years,75.0
+NL,Paesi Bassi,2028,Proportion of population aged 15-74 years,74.8
+NL,Paesi Bassi,2029,Proportion of population aged 15-74 years,74.6
+NL,Paesi Bassi,2030,Proportion of population aged 15-74 years,74.4
+NL,Paesi Bassi,2035,Proportion of population aged 15-74 years,73.2
+NL,Paesi Bassi,2040,Proportion of population aged 15-74 years,71.8
+NL,Paesi Bassi,2045,Proportion of population aged 15-74 years,70.7
+NL,Paesi Bassi,2050,Proportion of population aged 15-74 years,70.3
+NO,Norvegia,2026,Proportion of population aged 15-74 years,74.9
+NO,Norvegia,2027,Proportion of population aged 15-74 years,74.9
+NO,Norvegia,2028,Proportion of population aged 15-74 years,74.9
+NO,Norvegia,2029,Proportion of population aged 15-74 years,74.8
+NO,Norvegia,2030,Proportion of population aged 15-74 years,74.8
+NO,Norvegia,2035,Proportion of population aged 15-74 years,74.3
+NO,Norvegia,2040,Proportion of population aged 15-74 years,73.6
+NO,Norvegia,2045,Proportion of population aged 15-74 years,72.2
+NO,Norvegia,2050,Proportion of population aged 15-74 years,71.0
+PL,Polonia,2026,Proportion of population aged 15-74 years,76.5
+PL,Polonia,2027,Proportion of population aged 15-74 years,76.4
+PL,Polonia,2028,Proportion of population aged 15-74 years,76.3
+PL,Polonia,2029,Proportion of population aged 15-74 years,76.2
+PL,Polonia,2030,Proportion of population aged 15-74 years,76.2
+PL,Polonia,2035,Proportion of population aged 15-74 years,76.0
+PL,Polonia,2040,Proportion of population aged 15-74 years,75.8
+PL,Polonia,2045,Proportion of population aged 15-74 years,75.0
+PL,Polonia,2050,Proportion of population aged 15-74 years,73.5
+PT,Portogallo,2026,Proportion of population aged 15-74 years,75.0
+PT,Portogallo,2027,Proportion of population aged 15-74 years,74.8
+PT,Portogallo,2028,Proportion of population aged 15-74 years,74.5
+PT,Portogallo,2029,Proportion of population aged 15-74 years,74.2
+PT,Portogallo,2030,Proportion of population aged 15-74 years,73.8
+PT,Portogallo,2035,Proportion of population aged 15-74 years,72.3
+PT,Portogallo,2040,Proportion of population aged 15-74 years,70.7
+PT,Portogallo,2045,Proportion of population aged 15-74 years,69.5
+PT,Portogallo,2050,Proportion of population aged 15-74 years,68.0
+RO,Romania,2026,Proportion of population aged 15-74 years,76.1
+RO,Romania,2027,Proportion of population aged 15-74 years,76.0
+RO,Romania,2028,Proportion of population aged 15-74 years,75.9
+RO,Romania,2029,Proportion of population aged 15-74 years,75.7
+RO,Romania,2030,Proportion of population aged 15-74 years,75.6
+RO,Romania,2035,Proportion of population aged 15-74 years,75.0
+RO,Romania,2040,Proportion of population aged 15-74 years,75.0
+RO,Romania,2045,Proportion of population aged 15-74 years,72.9
+RO,Romania,2050,Proportion of population aged 15-74 years,71.1
+SE,Svezia,2026,Proportion of population aged 15-74 years,72.4
+SE,Svezia,2027,Proportion of population aged 15-74 years,72.4
+SE,Svezia,2028,Proportion of population aged 15-74 years,72.5
+SE,Svezia,2029,Proportion of population aged 15-74 years,72.6
+SE,Svezia,2030,Proportion of population aged 15-74 years,72.7
+SE,Svezia,2035,Proportion of population aged 15-74 years,73.3
+SE,Svezia,2040,Proportion of population aged 15-74 years,73.0
+SE,Svezia,2045,Proportion of population aged 15-74 years,71.7
+SE,Svezia,2050,Proportion of population aged 15-74 years,70.4
+SI,Slovenia,2026,Proportion of population aged 15-74 years,75.5
+SI,Slovenia,2027,Proportion of population aged 15-74 years,75.4
+SI,Slovenia,2028,Proportion of population aged 15-74 years,75.3
+SI,Slovenia,2029,Proportion of population aged 15-74 years,75.1
+SI,Slovenia,2030,Proportion of population aged 15-74 years,74.9
+SI,Slovenia,2035,Proportion of population aged 15-74 years,74.1
+SI,Slovenia,2040,Proportion of population aged 15-74 years,72.7
+SI,Slovenia,2045,Proportion of population aged 15-74 years,70.8
+SI,Slovenia,2050,Proportion of population aged 15-74 years,69.2
+SK,Slovacchia,2026,Proportion of population aged 15-74 years,76.8
+SK,Slovacchia,2027,Proportion of population aged 15-74 years,76.6
+SK,Slovacchia,2028,Proportion of population aged 15-74 years,76.4
+SK,Slovacchia,2029,Proportion of population aged 15-74 years,76.2
+SK,Slovacchia,2030,Proportion of population aged 15-74 years,76.0
+SK,Slovacchia,2035,Proportion of population aged 15-74 years,75.6
+SK,Slovacchia,2040,Proportion of population aged 15-74 years,75.0
+SK,Slovacchia,2045,Proportion of population aged 15-74 years,74.0
+SK,Slovacchia,2050,Proportion of population aged 15-74 years,72.2
+AT,Austria,2026,Population aged 15-74 years,7018546.0
+AT,Austria,2027,Population aged 15-74 years,7054455.0
+AT,Austria,2028,Population aged 15-74 years,7085519.0
+AT,Austria,2029,Population aged 15-74 years,7112727.0
+AT,Austria,2030,Population aged 15-74 years,7139370.0
+AT,Austria,2035,Population aged 15-74 years,7215117.0
+AT,Austria,2040,Population aged 15-74 years,7172180.0
+AT,Austria,2045,Population aged 15-74 years,7081877.0
+AT,Austria,2050,Population aged 15-74 years,7051515.0
+BE,Belgio,2026,Population aged 15-74 years,8863469.0
+BE,Belgio,2027,Population aged 15-74 years,8903809.0
+BE,Belgio,2028,Population aged 15-74 years,8936292.0
+BE,Belgio,2029,Population aged 15-74 years,8962593.0
+BE,Belgio,2030,Population aged 15-74 years,8984958.0
+BE,Belgio,2035,Population aged 15-74 years,9030522.0
+BE,Belgio,2040,Population aged 15-74 years,8997720.0
+BE,Belgio,2045,Population aged 15-74 years,8959943.0
+BE,Belgio,2050,Population aged 15-74 years,8943139.0
+BG,Bulgaria,2026,Population aged 15-74 years,4800394.0
+BG,Bulgaria,2027,Population aged 15-74 years,4760880.0
+BG,Bulgaria,2028,Population aged 15-74 years,4718199.0
+BG,Bulgaria,2029,Population aged 15-74 years,4672967.0
+BG,Bulgaria,2030,Population aged 15-74 years,4632825.0
+BG,Bulgaria,2035,Population aged 15-74 years,4441273.0
+BG,Bulgaria,2040,Population aged 15-74 years,4278676.0
+BG,Bulgaria,2045,Population aged 15-74 years,4127867.0
+BG,Bulgaria,2050,Population aged 15-74 years,3956809.0
+CY,Cipro,2026,Population aged 15-74 years,755242.0
+CY,Cipro,2027,Population aged 15-74 years,758231.0
+CY,Cipro,2028,Population aged 15-74 years,760973.0
+CY,Cipro,2029,Population aged 15-74 years,762453.0
+CY,Cipro,2030,Population aged 15-74 years,763556.0
+CY,Cipro,2035,Population aged 15-74 years,765177.0
+CY,Cipro,2040,Population aged 15-74 years,768432.0
+CY,Cipro,2045,Population aged 15-74 years,767462.0
+CY,Cipro,2050,Population aged 15-74 years,760519.0
+CZ,Cechia,2026,Population aged 15-74 years,8194953.0
+CZ,Cechia,2027,Population aged 15-74 years,8187419.0
+CZ,Cechia,2028,Population aged 15-74 years,8173490.0
+CZ,Cechia,2029,Population aged 15-74 years,8153518.0
+CZ,Cechia,2030,Population aged 15-74 years,8138224.0
+CZ,Cechia,2035,Population aged 15-74 years,8117619.0
+CZ,Cechia,2040,Population aged 15-74 years,8109439.0
+CZ,Cechia,2045,Population aged 15-74 years,8015954.0
+CZ,Cechia,2050,Population aged 15-74 years,7789120.0
+DE,Germania,2026,Population aged 15-74 years,62575953.0
+DE,Germania,2027,Population aged 15-74 years,62523855.0
+DE,Germania,2028,Population aged 15-74 years,62475754.0
+DE,Germania,2029,Population aged 15-74 years,62435843.0
+DE,Germania,2030,Population aged 15-74 years,62405538.0
+DE,Germania,2035,Population aged 15-74 years,62068124.0
+DE,Germania,2040,Population aged 15-74 years,60881825.0
+DE,Germania,2045,Population aged 15-74 years,59582978.0
+DE,Germania,2050,Population aged 15-74 years,59359043.0
+DK,Danimarca,2026,Population aged 15-74 years,4444098.0
+DK,Danimarca,2027,Population aged 15-74 years,4451826.0
+DK,Danimarca,2028,Population aged 15-74 years,4456693.0
+DK,Danimarca,2029,Population aged 15-74 years,4457649.0
+DK,Danimarca,2030,Population aged 15-74 years,4460755.0
+DK,Danimarca,2035,Population aged 15-74 years,4483475.0
+DK,Danimarca,2040,Population aged 15-74 years,4473621.0
+DK,Danimarca,2045,Population aged 15-74 years,4445882.0
+DK,Danimarca,2050,Population aged 15-74 years,4428276.0
+EE,Estonia,2026,Population aged 15-74 years,1027989.0
+EE,Estonia,2027,Population aged 15-74 years,1030682.0
+EE,Estonia,2028,Population aged 15-74 years,1031741.0
+EE,Estonia,2029,Population aged 15-74 years,1031544.0
+EE,Estonia,2030,Population aged 15-74 years,1030821.0
+EE,Estonia,2035,Population aged 15-74 years,1027426.0
+EE,Estonia,2040,Population aged 15-74 years,1016953.0
+EE,Estonia,2045,Population aged 15-74 years,1003736.0
+EE,Estonia,2050,Population aged 15-74 years,985424.0
+EL,Grecia,2026,Population aged 15-74 years,7823068.0
+EL,Grecia,2027,Population aged 15-74 years,7795968.0
+EL,Grecia,2028,Population aged 15-74 years,7762355.0
+EL,Grecia,2029,Population aged 15-74 years,7718934.0
+EL,Grecia,2030,Population aged 15-74 years,7672087.0
+EL,Grecia,2035,Population aged 15-74 years,7406011.0
+EL,Grecia,2040,Population aged 15-74 years,7104045.0
+EL,Grecia,2045,Population aged 15-74 years,6732614.0
+EL,Grecia,2050,Population aged 15-74 years,6394429.0
+ES,Spagna,2026,Population aged 15-74 years,38073121.0
+ES,Spagna,2027,Population aged 15-74 years,38377511.0
+ES,Spagna,2028,Population aged 15-74 years,38594963.0
+ES,Spagna,2029,Population aged 15-74 years,38737374.0
+ES,Spagna,2030,Population aged 15-74 years,38880384.0
+ES,Spagna,2035,Population aged 15-74 years,39080547.0
+ES,Spagna,2040,Population aged 15-74 years,38618328.0
+ES,Spagna,2045,Population aged 15-74 years,37872694.0
+ES,Spagna,2050,Population aged 15-74 years,36948120.0
+FI,Finlandia,2026,Population aged 15-74 years,4174031.0
+FI,Finlandia,2027,Population aged 15-74 years,4183645.0
+FI,Finlandia,2028,Population aged 15-74 years,4188930.0
+FI,Finlandia,2029,Population aged 15-74 years,4192882.0
+FI,Finlandia,2030,Population aged 15-74 years,4195233.0
+FI,Finlandia,2035,Population aged 15-74 years,4183814.0
+FI,Finlandia,2040,Population aged 15-74 years,4151199.0
+FI,Finlandia,2045,Population aged 15-74 years,4127698.0
+FI,Finlandia,2050,Population aged 15-74 years,4137536.0
+FR,Francia,2026,Population aged 15-74 years,49916633.0
+FR,Francia,2027,Population aged 15-74 years,49990284.0
+FR,Francia,2028,Population aged 15-74 years,50046953.0
+FR,Francia,2029,Population aged 15-74 years,50107230.0
+FR,Francia,2030,Population aged 15-74 years,50152722.0
+FR,Francia,2035,Population aged 15-74 years,50101471.0
+FR,Francia,2040,Population aged 15-74 years,49629910.0
+FR,Francia,2045,Population aged 15-74 years,49143923.0
+FR,Francia,2050,Population aged 15-74 years,48703357.0
+HR,Croazia,2026,Population aged 15-74 years,2940518.0
+HR,Croazia,2027,Population aged 15-74 years,2929575.0
+HR,Croazia,2028,Population aged 15-74 years,2910765.0
+HR,Croazia,2029,Population aged 15-74 years,2885502.0
+HR,Croazia,2030,Population aged 15-74 years,2859279.0
+HR,Croazia,2035,Population aged 15-74 years,2734758.0
+HR,Croazia,2040,Population aged 15-74 years,2632238.0
+HR,Croazia,2045,Population aged 15-74 years,2540555.0
+HR,Croazia,2050,Population aged 15-74 years,2463510.0
+HU,Ungheria,2026,Population aged 15-74 years,7279465.0
+HU,Ungheria,2027,Population aged 15-74 years,7235337.0
+HU,Ungheria,2028,Population aged 15-74 years,7195626.0
+HU,Ungheria,2029,Population aged 15-74 years,7143952.0
+HU,Ungheria,2030,Population aged 15-74 years,7089783.0
+HU,Ungheria,2035,Population aged 15-74 years,6950451.0
+HU,Ungheria,2040,Population aged 15-74 years,6892268.0
+HU,Ungheria,2045,Population aged 15-74 years,6764167.0
+HU,Ungheria,2050,Population aged 15-74 years,6557549.0
+IE,Irlanda,2026,Population aged 15-74 years,4088643.0
+IE,Irlanda,2027,Population aged 15-74 years,4132585.0
+IE,Irlanda,2028,Population aged 15-74 years,4172461.0
+IE,Irlanda,2029,Population aged 15-74 years,4210862.0
+IE,Irlanda,2030,Population aged 15-74 years,4244344.0
+IE,Irlanda,2035,Population aged 15-74 years,4367783.0
+IE,Irlanda,2040,Population aged 15-74 years,4424354.0
+IE,Irlanda,2045,Population aged 15-74 years,4447207.0
+IE,Irlanda,2050,Population aged 15-74 years,4438074.0
+IS,Islanda,2026,Population aged 15-74 years,303400.0
+IS,Islanda,2027,Population aged 15-74 years,310063.0
+IS,Islanda,2028,Population aged 15-74 years,316387.0
+IS,Islanda,2029,Population aged 15-74 years,321916.0
+IS,Islanda,2030,Population aged 15-74 years,327041.0
+IS,Islanda,2035,Population aged 15-74 years,348967.0
+IS,Islanda,2040,Population aged 15-74 years,369470.0
+IS,Islanda,2045,Population aged 15-74 years,388633.0
+IS,Islanda,2050,Population aged 15-74 years,405994.0
+IT,Italia,2026,Population aged 15-74 years,44330701.0
+IT,Italia,2027,Population aged 15-74 years,44321198.0
+IT,Italia,2028,Population aged 15-74 years,44294801.0
+IT,Italia,2029,Population aged 15-74 years,44231230.0
+IT,Italia,2030,Population aged 15-74 years,44139706.0
+IT,Italia,2035,Population aged 15-74 years,43340329.0
+IT,Italia,2040,Population aged 15-74 years,41759169.0
+IT,Italia,2045,Population aged 15-74 years,39842873.0
+IT,Italia,2050,Population aged 15-74 years,38064806.0
+LT,Lituania,2026,Population aged 15-74 years,2227547.0
+LT,Lituania,2027,Population aged 15-74 years,2233238.0
+LT,Lituania,2028,Population aged 15-74 years,2234486.0
+LT,Lituania,2029,Population aged 15-74 years,2231662.0
+LT,Lituania,2030,Population aged 15-74 years,2228248.0
+LT,Lituania,2035,Population aged 15-74 years,2188678.0
+LT,Lituania,2040,Population aged 15-74 years,2119902.0
+LT,Lituania,2045,Population aged 15-74 years,2057860.0
+LT,Lituania,2050,Population aged 15-74 years,2001748.0
+LU,Lussemburgo,2026,Population aged 15-74 years,539889.0
+LU,Lussemburgo,2027,Population aged 15-74 years,549438.0
+LU,Lussemburgo,2028,Population aged 15-74 years,558640.0
+LU,Lussemburgo,2029,Population aged 15-74 years,567625.0
+LU,Lussemburgo,2030,Population aged 15-74 years,575692.0
+LU,Lussemburgo,2035,Population aged 15-74 years,608870.0
+LU,Lussemburgo,2040,Population aged 15-74 years,630354.0
+LU,Lussemburgo,2045,Population aged 15-74 years,643000.0
+LU,Lussemburgo,2050,Population aged 15-74 years,651570.0
+LV,Lettonia,2026,Population aged 15-74 years,1365181.0
+LV,Lettonia,2027,Population aged 15-74 years,1349918.0
+LV,Lettonia,2028,Population aged 15-74 years,1335734.0
+LV,Lettonia,2029,Population aged 15-74 years,1322583.0
+LV,Lettonia,2030,Population aged 15-74 years,1310235.0
+LV,Lettonia,2035,Population aged 15-74 years,1241837.0
+LV,Lettonia,2040,Population aged 15-74 years,1163232.0
+LV,Lettonia,2045,Population aged 15-74 years,1089245.0
+LV,Lettonia,2050,Population aged 15-74 years,1020017.0
+MT,Malta,2026,Population aged 15-74 years,474925.0
+MT,Malta,2027,Population aged 15-74 years,487463.0
+MT,Malta,2028,Population aged 15-74 years,498103.0
+MT,Malta,2029,Population aged 15-74 years,506700.0
+MT,Malta,2030,Population aged 15-74 years,513791.0
+MT,Malta,2035,Population aged 15-74 years,545112.0
+MT,Malta,2040,Population aged 15-74 years,571545.0
+MT,Malta,2045,Population aged 15-74 years,596679.0
+MT,Malta,2050,Population aged 15-74 years,612901.0
+NL,Paesi Bassi,2026,Population aged 15-74 years,13652689.0
+NL,Paesi Bassi,2027,Population aged 15-74 years,13716445.0
+NL,Paesi Bassi,2028,Population aged 15-74 years,13764058.0
+NL,Paesi Bassi,2029,Population aged 15-74 years,13800657.0
+NL,Paesi Bassi,2030,Population aged 15-74 years,13836434.0
+NL,Paesi Bassi,2035,Population aged 15-74 years,13934490.0
+NL,Paesi Bassi,2040,Population aged 15-74 years,13935367.0
+NL,Paesi Bassi,2045,Population aged 15-74 years,13928432.0
+NL,Paesi Bassi,2050,Population aged 15-74 years,14018445.0
+NO,Norvegia,2026,Population aged 15-74 years,4213584.0
+NO,Norvegia,2027,Population aged 15-74 years,4239049.0
+NO,Norvegia,2028,Population aged 15-74 years,4262393.0
+NO,Norvegia,2029,Population aged 15-74 years,4283555.0
+NO,Norvegia,2030,Population aged 15-74 years,4303527.0
+NO,Norvegia,2035,Population aged 15-74 years,4379756.0
+NO,Norvegia,2040,Population aged 15-74 years,4430177.0
+NO,Norvegia,2045,Population aged 15-74 years,4445885.0
+NO,Norvegia,2050,Population aged 15-74 years,4458723.0
+PL,Polonia,2026,Population aged 15-74 years,28655277.0
+PL,Polonia,2027,Population aged 15-74 years,28519038.0
+PL,Polonia,2028,Population aged 15-74 years,28367717.0
+PL,Polonia,2029,Population aged 15-74 years,28184238.0
+PL,Polonia,2030,Population aged 15-74 years,28016313.0
+PL,Polonia,2035,Population aged 15-74 years,27233616.0
+PL,Polonia,2040,Population aged 15-74 years,26601862.0
+PL,Polonia,2045,Population aged 15-74 years,25906521.0
+PL,Polonia,2050,Population aged 15-74 years,24980209.0
+PT,Portogallo,2026,Population aged 15-74 years,8124395.0
+PT,Portogallo,2027,Population aged 15-74 years,8149634.0
+PT,Portogallo,2028,Population aged 15-74 years,8154090.0
+PT,Portogallo,2029,Population aged 15-74 years,8140015.0
+PT,Portogallo,2030,Population aged 15-74 years,8122508.0
+PT,Portogallo,2035,Population aged 15-74 years,8021755.0
+PT,Portogallo,2040,Population aged 15-74 years,7874265.0
+PT,Portogallo,2045,Population aged 15-74 years,7737200.0
+PT,Portogallo,2050,Population aged 15-74 years,7556142.0
+RO,Romania,2026,Population aged 15-74 years,14411715.0
+RO,Romania,2027,Population aged 15-74 years,14327931.0
+RO,Romania,2028,Population aged 15-74 years,14230003.0
+RO,Romania,2029,Population aged 15-74 years,14118946.0
+RO,Romania,2030,Population aged 15-74 years,14004956.0
+RO,Romania,2035,Population aged 15-74 years,13541303.0
+RO,Romania,2040,Population aged 15-74 years,13221839.0
+RO,Romania,2045,Population aged 15-74 years,12590306.0
+RO,Romania,2050,Population aged 15-74 years,12049390.0
+SE,Svezia,2026,Population aged 15-74 years,7688980.0
+SE,Svezia,2027,Population aged 15-74 years,7727936.0
+SE,Svezia,2028,Population aged 15-74 years,7772865.0
+SE,Svezia,2029,Population aged 15-74 years,7822474.0
+SE,Svezia,2030,Population aged 15-74 years,7875538.0
+SE,Svezia,2035,Population aged 15-74 years,8110414.0
+SE,Svezia,2040,Population aged 15-74 years,8248685.0
+SE,Svezia,2045,Population aged 15-74 years,8298802.0
+SE,Svezia,2050,Population aged 15-74 years,8350837.0
+SI,Slovenia,2026,Population aged 15-74 years,1610932.0
+SI,Slovenia,2027,Population aged 15-74 years,1611358.0
+SI,Slovenia,2028,Population aged 15-74 years,1610421.0
+SI,Slovenia,2029,Population aged 15-74 years,1607711.0
+SI,Slovenia,2030,Population aged 15-74 years,1605463.0
+SI,Slovenia,2035,Population aged 15-74 years,1590490.0
+SI,Slovenia,2040,Population aged 15-74 years,1564440.0
+SI,Slovenia,2045,Population aged 15-74 years,1532321.0
+SI,Slovenia,2050,Population aged 15-74 years,1502922.0
+SK,Slovacchia,2026,Population aged 15-74 years,4255964.0
+SK,Slovacchia,2027,Population aged 15-74 years,4235818.0
+SK,Slovacchia,2028,Population aged 15-74 years,4215628.0
+SK,Slovacchia,2029,Population aged 15-74 years,4195443.0
+SK,Slovacchia,2030,Population aged 15-74 years,4175442.0
+SK,Slovacchia,2035,Population aged 15-74 years,4089737.0
+SK,Slovacchia,2040,Population aged 15-74 years,4006655.0
+SK,Slovacchia,2045,Population aged 15-74 years,3912160.0
+SK,Slovacchia,2050,Population aged 15-74 years,3770480.0
+AT,Austria,2026,Population aged 15-74 years,6966590.0
+AT,Austria,2027,Population aged 15-74 years,6952318.0
+AT,Austria,2028,Population aged 15-74 years,6935098.0
+AT,Austria,2029,Population aged 15-74 years,6915989.0
+AT,Austria,2030,Population aged 15-74 years,6896344.0
+AT,Austria,2035,Population aged 15-74 years,6739458.0
+AT,Austria,2040,Population aged 15-74 years,6455381.0
+AT,Austria,2045,Population aged 15-74 years,6120471.0
+AT,Austria,2050,Population aged 15-74 years,5836500.0
+BE,Belgio,2026,Population aged 15-74 years,8823471.0
+BE,Belgio,2027,Population aged 15-74 years,8825670.0
+BE,Belgio,2028,Population aged 15-74 years,8822008.0
+BE,Belgio,2029,Population aged 15-74 years,8814276.0
+BE,Belgio,2030,Population aged 15-74 years,8803180.0
+BE,Belgio,2035,Population aged 15-74 years,8674825.0
+BE,Belgio,2040,Population aged 15-74 years,8445402.0
+BE,Belgio,2045,Population aged 15-74 years,8195207.0
+BE,Belgio,2050,Population aged 15-74 years,7947570.0
+BG,Bulgaria,2026,Population aged 15-74 years,4787438.0
+BG,Bulgaria,2027,Population aged 15-74 years,4736732.0
+BG,Bulgaria,2028,Population aged 15-74 years,4685145.0
+BG,Bulgaria,2029,Population aged 15-74 years,4633018.0
+BG,Bulgaria,2030,Population aged 15-74 years,4585733.0
+BG,Bulgaria,2035,Population aged 15-74 years,4356918.0
+BG,Bulgaria,2040,Population aged 15-74 years,4149840.0
+BG,Bulgaria,2045,Population aged 15-74 years,3953689.0
+BG,Bulgaria,2050,Population aged 15-74 years,3740781.0
+CY,Cipro,2026,Population aged 15-74 years,750650.0
+CY,Cipro,2027,Population aged 15-74 years,749725.0
+CY,Cipro,2028,Population aged 15-74 years,749232.0
+CY,Cipro,2029,Population aged 15-74 years,748128.0
+CY,Cipro,2030,Population aged 15-74 years,746746.0
+CY,Cipro,2035,Population aged 15-74 years,736154.0
+CY,Cipro,2040,Population aged 15-74 years,725465.0
+CY,Cipro,2045,Population aged 15-74 years,710360.0
+CY,Cipro,2050,Population aged 15-74 years,686297.0
+CZ,Cechia,2026,Population aged 15-74 years,8155172.0
+CZ,Cechia,2027,Population aged 15-74 years,8115428.0
+CZ,Cechia,2028,Population aged 15-74 years,8077132.0
+CZ,Cechia,2029,Population aged 15-74 years,8039460.0
+CZ,Cechia,2030,Population aged 15-74 years,8005992.0
+CZ,Cechia,2035,Population aged 15-74 years,7891440.0
+CZ,Cechia,2040,Population aged 15-74 years,7708939.0
+CZ,Cechia,2045,Population aged 15-74 years,7412861.0
+CZ,Cechia,2050,Population aged 15-74 years,6983906.0
+DE,Germania,2026,Population aged 15-74 years,62281853.0
+DE,Germania,2027,Population aged 15-74 years,61926860.0
+DE,Germania,2028,Population aged 15-74 years,61572797.0
+DE,Germania,2029,Population aged 15-74 years,61222110.0
+DE,Germania,2030,Population aged 15-74 years,60873650.0
+DE,Germania,2035,Population aged 15-74 years,58901234.0
+DE,Germania,2040,Population aged 15-74 years,55932582.0
+DE,Germania,2045,Population aged 15-74 years,52745150.0
+DE,Germania,2050,Population aged 15-74 years,50529972.0
+DK,Danimarca,2026,Population aged 15-74 years,4427653.0
+DK,Danimarca,2027,Population aged 15-74 years,4419875.0
+DK,Danimarca,2028,Population aged 15-74 years,4409992.0
+DK,Danimarca,2029,Population aged 15-74 years,4396669.0
+DK,Danimarca,2030,Population aged 15-74 years,4384958.0
+DK,Danimarca,2035,Population aged 15-74 years,4330231.0
+DK,Danimarca,2040,Population aged 15-74 years,4234669.0
+DK,Danimarca,2045,Population aged 15-74 years,4120401.0
+DK,Danimarca,2050,Population aged 15-74 years,4018589.0
+EE,Estonia,2026,Population aged 15-74 years,1020518.0
+EE,Estonia,2027,Population aged 15-74 years,1017035.0
+EE,Estonia,2028,Population aged 15-74 years,1013233.0
+EE,Estonia,2029,Population aged 15-74 years,1009507.0
+EE,Estonia,2030,Population aged 15-74 years,1005192.0
+EE,Estonia,2035,Population aged 15-74 years,984399.0
+EE,Estonia,2040,Population aged 15-74 years,951604.0
+EE,Estonia,2045,Population aged 15-74 years,914839.0
+EE,Estonia,2050,Population aged 15-74 years,871444.0
+EL,Grecia,2026,Population aged 15-74 years,7807826.0
+EL,Grecia,2027,Population aged 15-74 years,7770425.0
+EL,Grecia,2028,Population aged 15-74 years,7731394.0
+EL,Grecia,2029,Population aged 15-74 years,7687412.0
+EL,Grecia,2030,Population aged 15-74 years,7638224.0
+EL,Grecia,2035,Population aged 15-74 years,7342120.0
+EL,Grecia,2040,Population aged 15-74 years,6981845.0
+EL,Grecia,2045,Population aged 15-74 years,6523208.0
+EL,Grecia,2050,Population aged 15-74 years,6079321.0
+ES,Spagna,2026,Population aged 15-74 years,37689226.0
+ES,Spagna,2027,Population aged 15-74 years,37655203.0
+ES,Spagna,2028,Population aged 15-74 years,37581218.0
+ES,Spagna,2029,Population aged 15-74 years,37478474.0
+ES,Spagna,2030,Population aged 15-74 years,37380004.0
+ES,Spagna,2035,Population aged 15-74 years,36344817.0
+ES,Spagna,2040,Population aged 15-74 years,34549775.0
+ES,Spagna,2045,Population aged 15-74 years,32389213.0
+ES,Spagna,2050,Population aged 15-74 years,30022346.0
+FI,Finlandia,2026,Population aged 15-74 years,4147126.0
+FI,Finlandia,2027,Population aged 15-74 years,4132252.0
+FI,Finlandia,2028,Population aged 15-74 years,4115535.0
+FI,Finlandia,2029,Population aged 15-74 years,4100023.0
+FI,Finlandia,2030,Population aged 15-74 years,4082993.0
+FI,Finlandia,2035,Population aged 15-74 years,3971080.0
+FI,Finlandia,2040,Population aged 15-74 years,3829221.0
+FI,Finlandia,2045,Population aged 15-74 years,3687401.0
+FI,Finlandia,2050,Population aged 15-74 years,3572202.0
+FR,Francia,2026,Population aged 15-74 years,49818698.0
+FR,Francia,2027,Population aged 15-74 years,49795211.0
+FR,Francia,2028,Population aged 15-74 years,49755226.0
+FR,Francia,2029,Population aged 15-74 years,49717692.0
+FR,Francia,2030,Population aged 15-74 years,49665066.0
+FR,Francia,2035,Population aged 15-74 years,49068034.0
+FR,Francia,2040,Population aged 15-74 years,47920500.0
+FR,Francia,2045,Population aged 15-74 years,46707412.0
+FR,Francia,2050,Population aged 15-74 years,45492280.0
+HR,Croazia,2026,Population aged 15-74 years,2924532.0
+HR,Croazia,2027,Population aged 15-74 years,2902567.0
+HR,Croazia,2028,Population aged 15-74 years,2877651.0
+HR,Croazia,2029,Population aged 15-74 years,2851082.0
+HR,Croazia,2030,Population aged 15-74 years,2823446.0
+HR,Croazia,2035,Population aged 15-74 years,2688975.0
+HR,Croazia,2040,Population aged 15-74 years,2570716.0
+HR,Croazia,2045,Population aged 15-74 years,2454774.0
+HR,Croazia,2050,Population aged 15-74 years,2347250.0
+HU,Ungheria,2026,Population aged 15-74 years,7262694.0
+HU,Ungheria,2027,Population aged 15-74 years,7202228.0
+HU,Ungheria,2028,Population aged 15-74 years,7147451.0
+HU,Ungheria,2029,Population aged 15-74 years,7080795.0
+HU,Ungheria,2030,Population aged 15-74 years,7010010.0
+HU,Ungheria,2035,Population aged 15-74 years,6774729.0
+HU,Ungheria,2040,Population aged 15-74 years,6605081.0
+HU,Ungheria,2045,Population aged 15-74 years,6352899.0
+HU,Ungheria,2050,Population aged 15-74 years,6027781.0
+IE,Irlanda,2026,Population aged 15-74 years,4069809.0
+IE,Irlanda,2027,Population aged 15-74 years,4095060.0
+IE,Irlanda,2028,Population aged 15-74 years,4116352.0
+IE,Irlanda,2029,Population aged 15-74 years,4136286.0
+IE,Irlanda,2030,Population aged 15-74 years,4153024.0
+IE,Irlanda,2035,Population aged 15-74 years,4195230.0
+IE,Irlanda,2040,Population aged 15-74 years,4160086.0
+IE,Irlanda,2045,Population aged 15-74 years,4084809.0
+IE,Irlanda,2050,Population aged 15-74 years,3968265.0
+IS,Islanda,2026,Population aged 15-74 years,297566.0
+IS,Islanda,2027,Population aged 15-74 years,298720.0
+IS,Islanda,2028,Population aged 15-74 years,299872.0
+IS,Islanda,2029,Population aged 15-74 years,300555.0
+IS,Islanda,2030,Population aged 15-74 years,301260.0
+IS,Islanda,2035,Population aged 15-74 years,301961.0
+IS,Islanda,2040,Population aged 15-74 years,302020.0
+IS,Islanda,2045,Population aged 15-74 years,300878.0
+IS,Islanda,2050,Population aged 15-74 years,297701.0
+IT,Italia,2026,Population aged 15-74 years,44124682.0
+IT,Italia,2027,Population aged 15-74 years,43915891.0
+IT,Italia,2028,Population aged 15-74 years,43698896.0
+IT,Italia,2029,Population aged 15-74 years,43451696.0
+IT,Italia,2030,Population aged 15-74 years,43169089.0
+IT,Italia,2035,Population aged 15-74 years,41383269.0
+IT,Italia,2040,Population aged 15-74 years,38749790.0
+IT,Italia,2045,Population aged 15-74 years,35749149.0
+IT,Italia,2050,Population aged 15-74 years,32866775.0
+LT,Lituania,2026,Population aged 15-74 years,2206056.0
+LT,Lituania,2027,Population aged 15-74 years,2194729.0
+LT,Lituania,2028,Population aged 15-74 years,2183654.0
+LT,Lituania,2029,Population aged 15-74 years,2172917.0
+LT,Lituania,2030,Population aged 15-74 years,2161451.0
+LT,Lituania,2035,Population aged 15-74 years,2080461.0
+LT,Lituania,2040,Population aged 15-74 years,1962448.0
+LT,Lituania,2045,Population aged 15-74 years,1845965.0
+LT,Lituania,2050,Population aged 15-74 years,1731324.0
+LU,Lussemburgo,2026,Population aged 15-74 years,531520.0
+LU,Lussemburgo,2027,Population aged 15-74 years,532749.0
+LU,Lussemburgo,2028,Population aged 15-74 years,533702.0
+LU,Lussemburgo,2029,Population aged 15-74 years,534500.0
+LU,Lussemburgo,2030,Population aged 15-74 years,535250.0
+LU,Lussemburgo,2035,Population aged 15-74 years,534495.0
+LU,Lussemburgo,2040,Population aged 15-74 years,524912.0
+LU,Lussemburgo,2045,Population aged 15-74 years,508446.0
+LU,Lussemburgo,2050,Population aged 15-74 years,488630.0
+LV,Lettonia,2026,Population aged 15-74 years,1369943.0
+LV,Lettonia,2027,Population aged 15-74 years,1359817.0
+LV,Lettonia,2028,Population aged 15-74 years,1351336.0
+LV,Lettonia,2029,Population aged 15-74 years,1344462.0
+LV,Lettonia,2030,Population aged 15-74 years,1337654.0
+LV,Lettonia,2035,Population aged 15-74 years,1295077.0
+LV,Lettonia,2040,Population aged 15-74 years,1232299.0
+LV,Lettonia,2045,Population aged 15-74 years,1168314.0
+LV,Lettonia,2050,Population aged 15-74 years,1103120.0
+MT,Malta,2026,Population aged 15-74 years,459187.0
+MT,Malta,2027,Population aged 15-74 years,457867.0
+MT,Malta,2028,Population aged 15-74 years,456568.0
+MT,Malta,2029,Population aged 15-74 years,455142.0
+MT,Malta,2030,Population aged 15-74 years,453628.0
+MT,Malta,2035,Population aged 15-74 years,444688.0
+MT,Malta,2040,Population aged 15-74 years,434756.0
+MT,Malta,2045,Population aged 15-74 years,426202.0
+MT,Malta,2050,Population aged 15-74 years,409142.0
+NL,Paesi Bassi,2026,Population aged 15-74 years,13553991.0
+NL,Paesi Bassi,2027,Population aged 15-74 years,13525268.0
+NL,Paesi Bassi,2028,Population aged 15-74 years,13487207.0
+NL,Paesi Bassi,2029,Population aged 15-74 years,13445204.0
+NL,Paesi Bassi,2030,Population aged 15-74 years,13404400.0
+NL,Paesi Bassi,2035,Population aged 15-74 years,13113604.0
+NL,Paesi Bassi,2040,Population aged 15-74 years,12703385.0
+NL,Paesi Bassi,2045,Population aged 15-74 years,12272618.0
+NL,Paesi Bassi,2050,Population aged 15-74 years,11919181.0
+NO,Norvegia,2026,Population aged 15-74 years,4194818.0
+NO,Norvegia,2027,Population aged 15-74 years,4200970.0
+NO,Norvegia,2028,Population aged 15-74 years,4204479.0
+NO,Norvegia,2029,Population aged 15-74 years,4205292.0
+NO,Norvegia,2030,Population aged 15-74 years,4205082.0
+NO,Norvegia,2035,Population aged 15-74 years,4177377.0
+NO,Norvegia,2040,Population aged 15-74 years,4106925.0
+NO,Norvegia,2045,Population aged 15-74 years,3990326.0
+NO,Norvegia,2050,Population aged 15-74 years,3859226.0
+PL,Polonia,2026,Population aged 15-74 years,28618251.0
+PL,Polonia,2027,Population aged 15-74 years,28459697.0
+PL,Polonia,2028,Population aged 15-74 years,28301609.0
+PL,Polonia,2029,Population aged 15-74 years,28124248.0
+PL,Polonia,2030,Population aged 15-74 years,27958560.0
+PL,Polonia,2035,Population aged 15-74 years,27166001.0
+PL,Polonia,2040,Population aged 15-74 years,26280039.0
+PL,Polonia,2045,Population aged 15-74 years,25187412.0
+PL,Polonia,2050,Population aged 15-74 years,23792801.0
+PT,Portogallo,2026,Population aged 15-74 years,8031028.0
+PT,Portogallo,2027,Population aged 15-74 years,7978866.0
+PT,Portogallo,2028,Population aged 15-74 years,7921133.0
+PT,Portogallo,2029,Population aged 15-74 years,7859562.0
+PT,Portogallo,2030,Population aged 15-74 years,7795126.0
+PT,Portogallo,2035,Population aged 15-74 years,7473265.0
+PT,Portogallo,2040,Population aged 15-74 years,7111071.0
+PT,Portogallo,2045,Population aged 15-74 years,6763901.0
+PT,Portogallo,2050,Population aged 15-74 years,6376256.0
+RO,Romania,2026,Population aged 15-74 years,14398186.0
+RO,Romania,2027,Population aged 15-74 years,14311921.0
+RO,Romania,2028,Population aged 15-74 years,14223709.0
+RO,Romania,2029,Population aged 15-74 years,14133465.0
+RO,Romania,2030,Population aged 15-74 years,14038360.0
+RO,Romania,2035,Population aged 15-74 years,13613557.0
+RO,Romania,2040,Population aged 15-74 years,13284013.0
+RO,Romania,2045,Population aged 15-74 years,12588877.0
+RO,Romania,2050,Population aged 15-74 years,11952684.0
+SE,Svezia,2026,Population aged 15-74 years,7663214.0
+SE,Svezia,2027,Population aged 15-74 years,7670116.0
+SE,Svezia,2028,Population aged 15-74 years,7676715.0
+SE,Svezia,2029,Population aged 15-74 years,7681720.0
+SE,Svezia,2030,Population aged 15-74 years,7689655.0
+SE,Svezia,2035,Population aged 15-74 years,7694857.0
+SE,Svezia,2040,Population aged 15-74 years,7590144.0
+SE,Svezia,2045,Population aged 15-74 years,7382238.0
+SE,Svezia,2050,Population aged 15-74 years,7162923.0
+SI,Slovenia,2026,Population aged 15-74 years,1603699.0
+SI,Slovenia,2027,Population aged 15-74 years,1597252.0
+SI,Slovenia,2028,Population aged 15-74 years,1589870.0
+SI,Slovenia,2029,Population aged 15-74 years,1581060.0
+SI,Slovenia,2030,Population aged 15-74 years,1572519.0
+SI,Slovenia,2035,Population aged 15-74 years,1524288.0
+SI,Slovenia,2040,Population aged 15-74 years,1461383.0
+SI,Slovenia,2045,Population aged 15-74 years,1387670.0
+SI,Slovenia,2050,Population aged 15-74 years,1314192.0
+SK,Slovacchia,2026,Population aged 15-74 years,4257363.0
+SK,Slovacchia,2027,Population aged 15-74 years,4238378.0
+SK,Slovacchia,2028,Population aged 15-74 years,4219376.0
+SK,Slovacchia,2029,Population aged 15-74 years,4199931.0
+SK,Slovacchia,2030,Population aged 15-74 years,4180349.0
+SK,Slovacchia,2035,Population aged 15-74 years,4095892.0
+SK,Slovacchia,2040,Population aged 15-74 years,3984720.0
+SK,Slovacchia,2045,Population aged 15-74 years,3850626.0
+SK,Slovacchia,2050,Population aged 15-74 years,3666734.0
